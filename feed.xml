@@ -1,0 +1,232 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+<channel>
+<title>News about the Fighting fantasy fan site</title>
+<description>A site to play gamebooks online</description>
+<link>http://fanbooks.fightingfantasy.net</link>
+<item>
+<title>In the presence of a hero</title>
+<description>
+In the presence of a hero is now converted to the new layout,
+the gibberish text was also fixed.
+</description>
+<link>https://fanbooks.fightingfantasy.net/index.php</link>
+</item>
+<item>
+<title>Curse of Blackwood Manor</title>
+<description>
+Curse of Blackwood Manor is now converted to the new layout
+</description>
+<link>https://fanbooks.fightingfantasy.net/curseof/index.php</link>
+</item>
+<item>
+<title>Kill the beast converted to the new layout</title>
+<description>
+Kill the beast is now converted to the new layout
+</description>
+<link>https://fanbooks.fightingfantasy.net/index.php</link>
+</item>
+<item>
+<title>Quest for the ebony wand converted to the new layout</title>
+<description>
+Quest for the ebony wand is now converted to the new layout
+</description>
+<link>https://fanbooks.fightingfantasy.net/quest/index.php</link>
+</item>
+<item>
+<title>Feathers of the phoenix converted to the new layout</title>
+<description>
+Feathers of the phoenix converted to the new layout
+</description>
+<link>https://fanbooks.fightingfantasy.net/feathers/index.php</link>
+</item>
+<item>
+<title>Fast reading option improved</title>
+<description>
+The Fast reading option has been improved to display all text word by word with a fade in effect
+</description>
+<link>https://fanbooks.fightingfantasy.net/</link>
+</item>
+<item>
+<title>Playing Area Updated to bootstrap 4</title>
+<description>
+Updated the playing area to bootstrap latest release.
+</description>
+<link>https://fanbooks.fightingfantasy.net</link>
+</item>
+<item>
+<title>New set of random names for the characters</title>
+<description>
+A new set of random names for the characters where created, it also integrates female variants now.
+The set is twice as long then the old one with thousands of random names generated.
+</description>
+<link>https://fanbooks.fightingfantasy.net</link>
+</item>
+<item>
+<title>New Adventure : The Sleeping Dragon</title>
+<description>
+New adventure now available to play at the site
+</description>
+<link>https://fanbooks.fightingfantasy.net/Dragon/index.php</link>
+</item>
+<item>
+<title>The FF reviews archive</title>
+<description>
+The FF reviews archive is now available at the site
+</description>
+<link>https://fanbooks.fightingfantasy.net/ff_reviews_archive/</link>
+</item>
+<item>
+<title>Fast reading option</title>
+<description>
+Fast reading option is now available on all the adventures
+</description>
+<link>https://fanbooks.fightingfantasy.net/</link>
+</item>
+<item>
+<title>Create a new character section and change on the gameplay layout</title>
+<description>
+On most of the adventures there is now a create character area before the gameplay , also made some changes on the gameplay's layout
+</description>
+<link>https://fanbooks.fightingfantasy.net/</link>
+</item>
+<item>
+<title>New font size and jquery animated increase/decrease font size</title>
+<description>
+The new font size is now higher, and replaced the old increase / decrease font size javascript function with a new modern jquery function.
+</description>
+<link>https://fanbooks.fightingfantasy.net/</link>
+</item>
+<item>
+<title>Graphic of completed adventures</title>
+<description>
+Been curious on the average of time spent when people finished them so i made a graphic that illustrates this .
+</description>
+<link>https://fanbooks.fightingfantasy.net/</link>
+</item>
+<item>
+<title>News Engine enabled</title>
+<description>
+Now the news engine reads directly from the feed , to prevent downtime.
+</description>
+<link>https://fanbooks.fightingfantasy.net/</link>
+</item>
+<item>
+<title>Changes on the simpler ff engine</title>
+<description>
+Some changes to save the page you are in on the simpler engine
+</description>
+<link>https://simple.fightingfantasy.net/</link>
+</item>
+<item>
+<title>Changes on the gamebook playing area</title>
+<description>
+Changed the background color letter color and links color on the adventures playing area
+</description>
+<link>https://fanbooks.fightingfantasy.net/</link>
+</item>
+<item>
+<title>Google searches added to the homepage</title>
+<description>
+Two google searches were added to the homepage to search wherever you like !!
+</description>
+<link>https://fanbooks.fightingfantasy.net/</link>
+</item>
+<item>
+<title>New app link without publicity and waiting for the download available</title>
+<description>
+New app link without publicity and waiting for the download available
+</description>
+<link>http://fanbooks.fightingfantasy.net/</link>
+</item>
+<item>
+<title>Mobile Vs Desktop version on the gamebooks playing area</title>
+<description>
+Now the playing area is completely adapted to be played on mobile phones.
+</description>
+<link>http://fanbooks.fightingfantasy.net/</link>
+</item>
+<item>
+<title>New section on the site the beta planning blog!</title>
+<description>
+A Simple blog have been lauched on the site , to tell the readers the plans on future releases, and beta testing
+</description>
+<link>https://fanbooks.fightingfantasy.net/beta_planning_blog/</link>
+</item>
+<item>
+<title>Simpler Engine Alternative version</title>
+<description>
+Made a Simple Engine Alternative version for people to play on.
+</description>
+<link>http://simple.fightingfantasy.net/simple_engine_alternative/index.php</link>
+</item>
+<item>
+<title>Fighting Fantasy Dictionary</title>
+<description>
+Good news, Fighting Fantasy Dictionary is working again, (with only two entries atm) , if you want to contribute with more words send them to our site''s email.
+</description>
+<link>http://fanbooks.fightingfantasy.net/dictionary.php</link>
+</item>
+<item>
+<title>Dropdown menu and rating on the fly</title>
+<description>
+A dropdown menu was added to the whole site and also now the rating system shows directly on the adventure
+</description>
+<link>http://fanbooks.fightingfantasy.net/</link>
+</item>
+<item>
+<title>Plans for the future</title>
+<description>
+A person just contact me , asking me if i had plans for future implementations, I should reveal it now , to Finish a 400p adventure, and start another with a new feature on the stats.
+Edited
+</description>
+<link>http://fanbooks.fightingfantasy.net/index_all.php</link>
+</item>
+<item>
+<title>Rise of the Night Creatures debugging</title>
+<description>In spite of is lenght Rise of the Night Creatures was a hard adventure to convert due to many specific page events, if you by chance seen any bug please report it to default@fanbooks.fightingfantasy.net
+</description>
+<link>http://fanbooks.fightingfantasy.net/index_all.php</link>
+</item>
+<item>
+<title>Rise of the Night Creatures now available to play</title>
+<description>Rise of the Night Creatures now available to play on the full engine
+</description>
+<link>http://fanbooks.fightingfantasy.net/index_all.php</link>
+</item>
+<item>
+<title>The Making of a new adventure</title>
+<description>Start to convert a new Mid sized Adventure to fully coded , more news shortly..
+</description>
+<link>http://fanbooks.fightingfantasy.net</link>
+</item>
+<item>
+<title>Studying a system to auto-login on the simple web engine</title>
+<description>It came to my knowledge that many people forget to login on the starting page and therefore could not save the inventory for later use . So an auto login feature will be in study as the next implementation on the site, to prevent this from happening.
+New users will be automatically logged in once they create an user, while the users already created will be automatically logged in once they log in for the 1st time (like on facebook).
+</description>
+<link>http://simple.fightingfantasy.net/</link>
+</item>
+<item>
+<title>New adventure added to the simple web engine - The Ranger of Grewlant</title>
+<description>A new adventure was added to the simple web engine and also converted as windows app an epic 400 sections adventure : The Ranger of Grewlant</description>
+<link>http://simple.fightingfantasy.net/Ranger_of_Grewlant.php</link>
+</item>
+<item>
+<title>Loading/Saving notes implemented</title>
+<description>Loading and Saving notes have been implemented on the Windows apps</description>
+<link>http://feeds.feedburner.com/FightingFantasyFanEngine
+</link>
+</item>
+<item>
+<title>New section added - The rpg hits</title>
+<description>A page with RPG hits to listen to have been added to the site</description>
+<link>http://fanbooks.fightingfantasy.net/rpg_hits.php</link>
+</item>
+<item>
+<title>New site domain : fanbooks.fightingfantasy.net</title>
+<description>New site domain : fanbooks.fightingfantasy.net </description>
+<link>http://fanbooks.fightingfantasy.net</link>
+</item>
+</channel>
+</rss>
