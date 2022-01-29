@@ -227,7 +227,7 @@ function googleTranslateElementInit() {
   <h3 style="text-align:center">Site News and updates</h3>
     <div style="text-align:center">
     <?php include_once("news_5.php");?>
-
+    <?php include_once("search_bar.htm");?>
     </div>
   </div>
   <div class="col-sm-12">
