@@ -1,0 +1,2 @@
+item1=dagger;item2=salve;item3=figurine;item4=ropeandgrapple;item5=lantern;item6=silver_dagger;item7=cutlass;
+nota:pag35 -1 força por feitico de abrir porta,pag27 -1 força por feitiço
