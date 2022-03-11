@@ -1,0 +1,1 @@
+DASELEL,23,12,9,5,,28,,fireball,,,vial_green,,,,silver_ring,,,,,,word:skulls,,,,,flute,,4,0,0,23,175,

@@ -1,0 +1,1 @@
+Djinn,11,11,6,6,,113,,fireball,warhammer,silver_dagger,vial_green,earth_spell,red_key,,silver_ring,b_gauntlet,,,wind_spell,,word:skulls,golden_key,bronze_ring,Number:19,,,silver_bell,17,10,0,22,63,

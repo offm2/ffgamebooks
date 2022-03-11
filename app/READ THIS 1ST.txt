@@ -1,0 +1,6 @@
+This is a Windows 8 ready app, 
+to play it on other operating systems please install the .NET framework 4
+available at the MICROSOFT site
+
+at:http://www.microsoft.com/en-us/download/details.aspx?id=17851
+

@@ -1,0 +1,1 @@
+FINI,14,9,8,4,yes,20,,,,,,,ruby_ring,animal_bone,,,,,,book,,,,,shovel,shield,,,,,bedpan,,crucifix,,,,,,,,SEMUS,yes2,9,9,17,,

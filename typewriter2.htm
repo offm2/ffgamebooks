@@ -1,0 +1,47 @@
+  <body>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="boot/css/bootstrap.min.css">
+  <script src="boot/js/bootstrap.min.js"></script>
+
+
+<script type="text/javascript">
+
+function Typewriter(sName)
+{	// PROPERTIES
+	this.counter = 0;
+	this.name = sName;
+	this.text = "";
+	this.speed = 50; // in milliseconds
+
+	// METHODS
+	this.addText = AddText;
+	this.next = Next;
+	this.setSpeed = SetSpeed;
+	this.write = Write;
+
+	// FUNCTIONS
+	function AddText(s)
+	{	this.text = s
+	}
+	function Next()
+	{	document.getElementById('typewriter_output').innerHTML = this.text.substr(0, this.counter++);
+	}
+	function SetSpeed(iSpeed)
+	{	this.speed = iSpeed;
+	}
+	function Write()
+	{	setInterval(this.name+".next()",this.speed);
+	}
+}
+
+</script>
+<br>
+<div id="typewriter_output" class="alert alert-success"></div>
+
+<script type="text/javascript">
+var myTypewriter = new Typewriter("myTypewriter");
+myTypewriter.addText("Have you ever played Fighting Fantasy gamebooks? Do you want to play fan-written adventures easily and conveniently? Now you can! No need for a pencil or dice anymore - instead everything is here for you online! Are you ready for a new adventure? Then enter your character's name, hit Play Adventure, and you're are all set. Good Luck!");
+myTypewriter.write();
+</script>
+
+</body>

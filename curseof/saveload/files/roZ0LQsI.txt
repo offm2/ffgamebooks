@@ -1,0 +1,1 @@
+red,15,11,4,4,,20,yes,skull,,copper_key,matches,,ruby_ring,,voodoo_doll,,,,,book,,wooden_stake,,,shovel,shield,,,,candles,bedpan,dagger,crucifix,,crystal_rod,no,,XODUS,,TEMUT,SEMUS,yes2,11,7,21,51,

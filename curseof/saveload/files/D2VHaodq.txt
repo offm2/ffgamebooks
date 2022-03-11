@@ -1,0 +1,1 @@
+adrian,16,12,3,4,,20,yes,skull,,copper_key,matches,silver_key,ruby_ring,animal_bone,voodoo_doll,pin,hair_locket,,,book,screwdriver,wooden_stake,medallion,,shovel,shield,diamond_ring,ruby,,candles,bedpan,dagger,crucifix,,crystal_rod,no,yes,XODUS,,TEMUT,SEMUS,yes1,12,10,23,,

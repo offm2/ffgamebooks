@@ -1,0 +1,1 @@
+RINOTH,12,10,9,4,,43,,,,,vial_green,,red_key,,silver_ring,b_gauntlet,,,,,word:skulls,,,,,flute,,6,0,0,22,39,

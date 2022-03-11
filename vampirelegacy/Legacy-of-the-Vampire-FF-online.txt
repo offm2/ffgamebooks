@@ -1,0 +1,2060 @@
+Legacy of the
+ Vampire
+     By
+   Mark Lain
+
+
+
+
+                 1
+
+           Legacy of the Vampire
+                                   © Mark Lain 2014
+
+This adventure is a sequel/homage to Keith Martin's Count Heydrich adventures, Vault
+Of The Vampire and Revenge Of The Vampire, originally published in the Puffin Fighting
+Fantasy series as numbers 38 and 58 respectively. It is not necessary to have played
+these books before playing Legacy Of The Vampire, but familiarity with the previous
+books will allow the player to get more out of the experience and to pick up on cross-
+references. I have intentionally tried to emulate Keith Martin's Heydrich adventures by
+including references to Hammer Films and European vampire folklore, Skill and Faith
+tests, and cheat-proofing. I have deliberately not included the Blood Points mechanic as,
+in this third adventure, YOU are not knowingly trying to destroy Heydrich so it would
+make less sense here.
+
+
+
+Two dice, a pencil and an eraser are all you need to embark on this competition
+adventure, which comes complete with its own elaborate combat system and a score sheet
+to record your progress. It is up to YOU to decide which routes to follow, which dangers
+to risk and which foes to fight.
+
+
+
+
+                                                                                       2
+
+          CONTENTS
+
+
+
+INTRODUCTION         4
+
+ADVENTURE SHEET      8
+
+BACKGROUND           9
+
+
+
+
+                          3
+
+                                  INTRODUCTION
+
+You are about to take the lead role in an adventure that will make you into a living
+legend, renowned and respected throughout the world. Before you take part in this quest,
+you must first determine your own strengths and weaknesses. You use dice to work out
+your initial SKILL, STAMINA, LUCK and FAITH scores. On page 8 is an Adventure
+Sheet, which you may use to record details of your adventure. On it, you will find boxes
+for recording your SKILL, STAMINA, LUCK and FAITH scores. Write your scores on
+the Adventure Sheet in pencil so you can erase previous scores when you start again. You
+may make photocopies of the sheet for use in future adventures.
+
+Full details governing rules can be found in any of the Fighting Fantasy Gamebooks as
+well as on the Official website: www.fightingfantasy.com.
+
+
+                         SKILL, STAMINA, LUCK, and FAITH
+
+To determine your Initial SKILL, STAMINA, LUCK, and FAITH scores:
+
+     SKILL Roll one die. Add 6 to the number and enter this total in the SKILL box.
+
+     STAMINA Roll two dice. Add 12 to the number and enter this total in the
+        STAMINA box.
+
+     LUCK Roll one die. Add 6 to the number and enter this total in the LUCK box.
+
+     FAITH Roll one die. Add 3 to the number and enter this total in the FAITH box.
+
+
+For reasons that will be explained below, all your scores will change constantly during
+the adventure. You must keep an accurate record of these scores, and for this reason, you
+are advised to write small in the boxes or to keep an eraser handy. However, never rub
+out your Initial scores, except on those very rare occasions when the text specifically tells
+you so.
+
+Although you may be rewarded additional SKILL, STAMINA, LUCK and FAITH
+points, these totals may never exceed your initial Scores, except on very rare occasions,
+when you will instructed on a particular page. SKILL reflects your general expertise in
+fighting and combat; the higher the better. STAMINA reflects your general constitution,
+your overall will to survive, your determination and overall fitness; the higher your
+STAMINA score, the longer you will be able to survive. LUCK indicates how naturally
+lucky a person you are. Luck ­ and Magic ­ are facts of life in the fantasy world you are
+about to explore. FAITH is a measure of your ability to deal with unsettling or disturbing
+situations but this could lead to potentially good or bad outcomes as there will be times
+when too much faith may attract evil or cause you to be easily led astray.
+
+
+
+
+                                                                                           4
+
+                                         BATTLES
+During your adventure, you will often come across pages in the book, which instruct you
+to fight a creature of some sort. An option to flee may be given, but if not ­ or if choose
+to attack the creature anyway ­ you must resolve the battle as described below.
+6
+First, record the opponent's SKILL and STAMINA scores in the first empty Encounter
+box on your Adventure Sheet. The scores for each opponent or creature are given in the
+book each time you have an encounter. You should also make a note of any special
+abilities or instructions, which are unique to that particular opponent.
+
+The sequence of combat is then:
+1. Roll two dice for your opponent. Add its SKILL score. This total is the opponents
+Attack Strength.
+2. Roll two dice for yourself. Add the number rolled to your current SKILL score. This
+total is your Attack Strength.
+3. If your Attack Strength is higher than your opponent's is, you have wounded it.
+Proceed to step 4. If your opponent's Attack Strength is higher than yours is, it has
+wounded you. Proceed to step 5. If both Attack Strength totals are the same, you have
+avoided each other's blows ­ start the next Attack Round from steps 1 above.
+4. You have wounded your opponent; so subtract 2 points from its STAMINA score. You
+may use LUCK here to do additional damage (see below). Proceed to step 6.
+5. Your opponent has wounded you; so subtract 2 points from your STAMINA score.
+You may use LUCK to reduce the loss of STAMINA (see below). Proceed to step 6.
+6. Make the appropriate adjustments to either your opponents or your own STAMINA
+scores (and your LUCK score if you used LUCK ­ see over).
+7. Begin the next Attack Round, starting again at step 1 with your current SKILL score.
+This sequence continues until the STAMINA score of either you or your opponent
+reaches zero (death). If your opponent dies, you are free to continue with your adventure.
+If you die, your adventure ends and you must start all over again by creating a new
+character.
+
+                                           LUCK
+At various times during your adventure, either in battles or when you come across other
+situations in which you could either be Lucky or Unlucky (details of these are given in
+the relevant pages themselves), you may use LUCK to make the outcome more
+favourable to you. However, beware! Using LUCK is a risky business and, if you are
+unlucky, the results could be disastrous.
+The procedure for Testing your Luck is as follows: roll two dice. If the number rolled is
+less than or equal to your current LUCK score, you have been Lucky and the outcome
+will be in your favour. If the number rolled is higher than your current LUCK score, you
+have been Unlucky and will be penalised.
+Each time you Test your Luck, you must subtract 1 point from your current LUCK score.
+Thus, you will soon realise that, the more you rely on your LUCK, the more risky this
+procedure will become.
+
+
+
+
+                                                                                         5
+
+                               USING LUCK IN BATTLES
+In battles, you always have the option of using your LUCK either to score a more serious
+wound on an opponent you have just wounded or to minimise the effects of a wound you
+have just received.
+
+If you have just wounded an opponent: you may Test your Luck as described above. If
+you are Lucky, you have inflicted a severe wound; deduct an extra 2 points from your
+opponent's STAMINA score. However, if you are Unlucky, however, your blow only
+scratches your opponent, and you deduct only 1 point from your opponent's STAMINA
+(instead of scoring the normal 2 points of damage, you now only score 1).
+
+If the opponent has wounded you: you may Test your Luck to try to minimise the
+wound. If you are Lucky, your opponent's blow only grazes you; deduct only 1 point
+from your STAMINA. If you are Unlucky, your wound is a serious one and you must
+deduct 1 extra STAMINA point (i.e., a total of 3 points from your own STAMINA).
+Remember: you must subtract 1 point from your LUCK score each time you Test your
+Luck.
+
+                                            Skill
+Your SKILL score will not change much during the course of your adventure.
+Occasionally a paragraph may give you instructions to increase or decrease your SKILL
+score, but it may not exceed its Initial value unless you are specifically instructed to the
+contrary.
+There may be times during your adventure when you will be told to Test your Skill. The
+procedure for this is the same as that for Testing your Luck: roll two dice. If the number
+rolled is less than or equal to your current SKILL score, you have succeeded in your test
+and the result will go in your favour. If the number rolled is higher than your current
+SKILL score, you have failed the test and will have to suffer the consequences. However,
+unlike Testing your Luck, do not subtract 1 point from your SKILL each time you Test
+your Skill. Your SKILL score can never exceed its initial value unless specifically
+instructed on a page.
+
+                                           Luck
+Additions to your LUCK score may be awarded in the adventure when you have been
+particularly lucky or created your own luck by some other action. Details are given,
+where appropriate, in the paragraphs of the book. Remember that, as with SKILL and
+STAMINA, your LUCK score may never exceed its initial value unless specifically
+instructed on a page.
+
+                                         Provisions
+Everyone knows that food is vital as a form of sustenance. Venturing into any adventure
+may prove arduous indeed; therefore you need food just to keep your strength up. Any
+time you eat a meal, you may restore 4 lost STAMINA points, except during combat or
+when performing any other similar action. You start the adventure with only 3
+Provisions, but there may be opportunities during your quest to find more.
+
+
+
+
+                                                                                          6
+
+                                     EQUIPMENT
+You will start your adventure with a bare minimum of equipment, but you may find other
+items during your travels. You have your trusty short sword at your belt and a backpack
+to hold your Provisions and any other items you may come across.
+
+
+
+
+                                                                                      7
+
+8
+
+                                      BACKGROUND
+
+You are a lawyer by trade, although you have previous training as part of Salamonis' vast
+army which means you know how to handle a blade should the need ever arise and, even
+after ten years in the legal business, you still always make certain to carry a short sword
+just in case you should need to defend yourself in the unsafe streets of Allansia's
+townships.
+
+Nowadays though, you much prefer the minutiae and detail (not to mention the relatively
+safe and lucrative nature) of legal bureaucracy and, only a fortnight ago, an interesting
+case was presented to you by the cherva who acts as your personal assistant. As a result,
+you have sought passage on a merchant ship from Allansia to the Old World ­ a journey
+that has taken the best part of the past two weeks and, you have noted in your journal,
+you cannot help feeling a sensation of having travelled from the West of Titan to the East
+as there are noticeable differences in both the land and the peoples of the Old World.
+
+The case is that of twin sisters Ingrid and Angharad Heydrich, who have lately inherited a
+run-down castle and its grounds in Mortvania, the region where, several generations ago,
+the Heydrich family is said to originally hail from. The deeds for the castle are very
+limited in their content, giving little indication of its having ever served any real purpose
+as a seat of power or defence. No names of previous owners are listed and this seems
+very odd to your thorough legal mind, although there is a detailed plan of the building's
+footprint and its adjoining land, plus there is a sketch of how grand the building must
+once have been. The only documentation attached to suggest any former inhabitants is
+heavily defaced, the edges singed as if it may once have been saved from a fire. Indeed,
+amongst the scant records is a yellowed bill poster telling (in an almost celebratory tone)
+of how the castle was finally put to the torch ending "once and for all" the "evil that
+resided there". You cannot help smiling at the luridness of this description and reflect on
+how superstitious people were only a century or so ago. You know little of Mortvania
+yourself, it being a very remote area to the North that you have never had cause to visit
+until now, although you have heard old wives' tales and stories from those who have
+ventured that far North of how, even now, the locals, especially the older generations,
+cross themselves whenever the ruined castle is mentioned.
+
+You have received word by letter that the twins intend to meet you at an inn close to the
+castle, from whence you intend to travel together to view the remains of the building
+itself, followed by your formally handing-over ownership to them. This should be a fairly
+routine conveyancing task for which you will charge your usually extortionate fee of 500
+Gold Pieces. You anticipate that the entire case will take you no more than three days'
+work, which is how long you have taken a room at the inn for. You pack the relevant
+documents and take a mailcoach North to rendez-vous at the inn at the agreed time.
+
+It is a full day's ride to reach your destination, so you take the opportunity to re-read the
+deeds and plans of the castle. You doubt there will be any scope to renovate the building
+without huge financial outlay, but the land that it comes with could be exploited for
+growing crops. You are about to fold the papers and return them to your leather satchel
+
+
+
+                                                                                            9
+
+when a small folded piece of paper catches your eye in the bottom of your bag. You
+surmise that this must have been amongst the damaged documents and had slipped out as
+you withdrew them. From the discolouration and staining you guess that this paper is
+rather older than the rest and little is decipherable other than the name Siegfried which
+appears several times. The mailcoach suddenly lurches to the left and you feel it come to
+a halt. The driver opens the door, lowers the iron access step, and offers you his hand to
+help you down. You fold the papers away hurriedly and take the driver's hand as you step
+from the coach. Night has already fallen and a heavy fog is descending that prevents you
+from seeing very far and you cannot distinguish anything other than the glow of an oil
+lamp that shines over the main entrance to the inn, its light piercing through the fog,
+casting weird shadows as the flame flickers. You take a quick look around as you take the
+few strides to the entrance and you are convinced that you can make out the glossy sheen
+of a pair of silver lupine eyes in the fog beyond the coach. You tell yourself that this is
+merely the lamplight reflecting in the moist air and pass through the entrance into the inn
+where the twins are sat waiting for you at a table close to the door.
+
+NOW TURN OVER
+
+
+
+
+                                                                                         10
+
+                                               1
+The twins introduce themselves to you and bid you sit and join them. The landlord comes
+over to the table and sets down three plates of meat, a bowl of vegetables, and three mugs
+of ale. You all dig in enthusiastically and agree that the food is excellent, surprisingly so
+for such a remote location. You chat amongst yourselves idly about your journeys and
+you begin to feel very relaxed in the twins' company as they are talkative and outgoing.
+Angharad explains that she is the younger of the two by three minutes and she comes
+across as the more boisterous and youthful of the two, although they are both undeniably
+striking to look at, especially their eyes, which are almost hypnotically deep blue in
+colour. You also notice that both twins have small tattoos of stylised rabbit's heads on
+their right wrists, presumably a symbol of sisterhood.
+You try to keep the conversation as general as possible (tomorrow is when the serious
+business will begin) but the twins' sociability is infectious and they frequently ask
+questions about the background to their inheritance and how the family ever came to live
+in such a place as Mortvania.
+Will you remain coy and avoid the subject? Turn to 135
+Or do you tell them what you know of the myths surrounding their ancestry? Turn to 76
+
+                                               2
+You both appear on the landing at the same moment so you lead the way down the stone
+stairs and out through the front door which, you note, is unlocked.
+Looking about from the small turning circle that is marked out in the mud at the front of
+the inn from many previous coaches that have terminated their journeys here and turned
+back, you catch sight of a female figure dressed in a nightgown heading into the night
+mists in the direction of the ruins. You take this to be the missing twin and do not hesitate
+in grabbing Ingrid and making off briskly in pursuit of what you hope is Angharad. The
+figure appears to be travelling at normal walking pace yet, no matter how fast Ingrid and
+yourself move, you do not seem to be gaining on it.
+You follow in vain for some time until the mist begins to thin out and you see your
+quarry opening the gates to the castle... this makes you stop dead in your tracks and
+Ingrid stops behind you equally suddenly. The gate is at the exact location where the gap
+in the ruin wall was earlier today. Not just that, rather more startlingly, the perimeter wall
+is clean and a large three-storey castle stands where only a few hours ago there was
+merely rubble and plant-cover. The entire building has somehow re-constituted itself,
+exactly how the illusory castle looked in your nightmare last night! You pinch yourself,
+but this is no dream that you can awaken yourself from. The castle really is there and the
+figure you are pursuing has opened the gate, gone down the main driveway, and is now
+making to open the large front door to the castle itself.
+Ingrid is totally confused by what you are both witnessing and her baffled expression is
+confirmation that it is not you alone who is seeing this. The figure you were following
+turns towards you and you see that there is no doubt that it is Angharad. She looks about,
+sweeps her hair to one side confidently, and opens the front door. Light streams from
+inside as she enters the castle and closes the door behind her.
+You and Ingrid agree to approach the castle as Angharad must be in danger. As you pass
+through the gates you see a plaque on the left gate pillar which reads `Castle Heydrich'.
+You hold hands, your palms damp with the sweat of fear, and you both walk carefully
+
+
+
+                                                                                            11
+
+down the driveway to the main door. Thankfuly, nothing befalls you on the drive and you
+reach the door safely, if undeniably worried. A stone arch over the entrance reads
+`Mortus Mansion' which seems curious, but this oddity is insignificant compared to the
+simple fact that the castle has somehow re-appeared and you try to ignore the name
+change, in spite of your recollection of the morphing plaque from last night's terrible
+dream, which you are now re-living.
+The door opens easily into a marble-floored corridor running from west to east. You have
+no indication of which direction Angharad may have taken, so you decide that you will
+take one corridor whilst Ingrid explores the other.
+Will you head west (turn to 71) or east (turn to 27)?
+
+                                              3
+The three of you return to the safety of the inn where the innkeeper seems surprised at
+your return:
+`No-one goes out in the fog around these parts as wants to see another dawn,' he states
+ominously and the few other locals in the inn nod in mumbled agreement. You consider
+yourself lucky to avoided whatever real or imagined horror they are alluding to, but also
+secretly laugh to yourself at their foolish superstitions.
+You spend the remainder of the day poring over documents relating to the inheritance
+with the twins, who by nightfall have grown bored. Night, incidentally, has fallen rather
+earlier than it did yesterday. The twins announce that they are turning in for the night
+after you have all eaten a small meal. You also decide to retire to your room. Turn to 123
+
+                                              4
+The innkeeper serves a hearty breakfast of eggs, sliced meats and pungent cheeses,
+washed down with white wine. The twins are chatting excitedly about finally getting to
+see their inheritance today and about the disappointment of yesterday's abortive outing.
+Do you wish to share your dream with them? If so, turn to 82. If not, turn to 147
+
+                                              5
+Entranced by the constantly revolving arachnid, your vision starts to cloud and an
+imposing yet dapper face forms out of the mesmeric haze. The face is that of a man of
+indeterminate age with black hair slicked into a widow's peak at the front. The vision's
+red eyes stare intently at you and its lips move to speak in a commanding voice:
+`Leave this place, fool. The girl is mine. Leave now, while the blood still pumps fresh in
+your veins.'
+Lose 1 Faith point for the shock of this vision of evil. If you still wish to proceed along
+the corridor, turn to 62. If you would rather head back to the original north corridor via
+the dark room, turn to 29
+
+                                              6
+`Hmm, very nice. Very nice indeed. I swear I've seen one like this around the place
+before, but it's handy to have one myself. Very useful around here, these are,' he says,
+taking the stake from you. `You can go now. I forgive you your indiscretion.' You infer
+from his words that you may live to regret surrendering this object. Lose 1 Luck point.
+The man gestures you out and you now carry on along the corridor. Turn to 131
+
+
+
+                                                                                           12
+
+                                               7
+The old man's room is filled with scientific instruments and various herbs used in the
+preparation of potions and remedies. You cannot find any pre-made concoctions, but you
+do discover some healing herbs which will add 2 Stamina points when applied to any
+wounds (there is enough for one use only) and some garlic flowers which you can take if
+you wish. You must now leave the room and continue along the corridor before the
+Doctor's death at your hands is discovered. Turn to 131
+
+                                               8
+Roll on die, adding 2 to the roll as you are still shaken from the horror that you have just
+witnessed.
+If you roll under your current Faith score, turn to 19
+If the roll is higher than your current Faith score, turn to 125
+
+                                               9
+You grip Angharad by the shoulders and shake her vigorously, but she still does not
+respond. No sooner have you released her and she turns back towards the window and a
+vague smile appears on her lips as the insects rise from her face as one and hover over her
+head briefly before consolidating themselves into a single mass which takes the rough
+form of a large black bat. Turn to 44
+
+                                              10
+The twins also seem keen to go off and look around on their own so you part company,
+agreeing to meet up again at the remains of the gateway before sundown.
+You wander aimlessly around the ruins alone for what seems like ages, getting quite
+bored as you measure up what is nothing more than rubble and collapsed stonework. A
+general examination of the plants that have taken root in the gaps in the mortar of the
+walls produces some tiny garlic flowers, which you can take if you want to.
+
+Test Your Skill
+If you succeed, turn to 114
+If you fail, turn to 166
+
+                                              11
+The creature's plaintive cries begin to affect you and you feel tears welling-up in your
+eyes as your grip loosens allowing the creature to pull the stake from its chest. Blood
+gushes from the wound, spattering over your face and getting in your eyes. Before you
+get the chance to clear your vision, the creature turns your attack on you, plunging the
+stake deep into your heart. You cough up mouthfuls of blood and her manically smiling
+face is the last thing you see. Your adventure ends here.
+
+
+
+
+                                                                                          13
+
+                                              12
+You walk along the landing, treading as softly as you can to avoid arousing anyone's
+suspicions, and tiptoe down the stone steps into the main bar area, which is in total
+darkness. The sound of snoring comes from one area of the room and you assume this
+must be the landlord asleep at a table or perhaps slumped in a corner.
+There is nothing of interest here, and the darkness is making you uncomfortable, so you
+carefully head back upstairs and return to your room. Turn to 145
+
+                                              13
+The painting is labelled Katarina Heydrich and is of an unnaturally young-looking
+woman with dark eyes, long flowing black hair, and a seductive figure. You are taken
+aback with the realisation of how physically similar the woman in the picture is to the
+twins, particularly to Ingrid who is easily the less innocent-looking of the two. Other than
+this striking resemblance, the painting is uninteresting.
+Will you now take a closer look at the picture of a suave-looking man (turn to 36), or a
+very faded and damaged painting (turn to 144)? Or, if the pictures do not have any appeal
+to you, you return to the east corridor (turn to 89)
+
+                                              14
+Your will has held fast so far. Why run now when faced with something slightly out of
+the ordinary? Add 1 Faith point for your resolute bravery. You stand silently in the
+darkness and wait to see what is going to happen.
+After a few minutes that seem like a lifetime due to the tension, you see a small pair of
+bright red lights appear in the far corner of the room. They dart up and down briefly,
+before slowly making their way towards you. As they get closer you see them shedding a
+small amount of hellish red light onto a pair of bizarre candy-striped spindly legs. The
+darkness makes this sight all the more macabre as the shape approaches you. Soon it is so
+close that you can feel its warm sickly breath on your neck.
+Suddenly, the room explodes with light and, as you eyes try to adjust, you catch brief
+snatches of the most hideous and perverse form you have ever seen.
+
+Roll three dice:
+If you roll higher than your current Stamina, turn to 35. If the roll is lower than your
+current Stamina, turn to 137
+
+                                              15
+Feeling a little foolish, you hold the sweetmeat in front of you at arm's length, hoping
+this might act as an offering of some sort. You prepare yourself for what awaits you on
+the other side of the door. Turn to 148
+
+                                              16
+Although the building and its nameplate do not maintain either particular form long
+enough for your eyes to focus on one or the other, you cannot help but notice one
+constant feature that holds its position regardless of the shape of the building: a central
+window on the third floor has an intense and oddly welcoming warm glow coming from
+it. You fix your eyes on the window, trying to ignore the amorphous constructs that
+
+
+
+                                                                                           14
+
+surround it. A figure appears at the window dressed in black fineries, its arm beckoning
+you towards it.
+
+Test Your Luck
+If you succeed, turn to 140
+If you fail, turn to 112
+
+                                              17
+In spite of the cold and probably against your better judgement, the three of you continue
+onwards deeper into the fog... which is a serious mistake. Your scepticism led you to
+believe there was no such thing as vampires, less still the possibility of the existence of a
+rarer semi-ghost species, the Mist Vampires, which use the cover of dense fogs such as
+this to capture their prey. You have strayed into their trap together and your foolishness
+has caused not only you, but also two innocent young women, to die a terrible death.
+Your adventure ends here, disastrously, and in utter failure.
+
+                                              18
+After this evening's unwelcome surprise sleep does not come easily, but you do
+eventually drift off and you begin to dream:
+
+It is early morning and you are making your way to the site of the ruins. A dense fog, not
+unlike that which you experienced just this morning, makes your route hazy and
+indistinct, yet you press on undaunted. After many hours of endless trudging along
+several indirect routes, you come to the location marked on the castle deeds. Looking up
+through the fog, you are stunned to see, not ruins, but a large three-level castle in almost
+perfect repair as if it had been built very recently. You drawn involuntarily towards the
+building which, as you get closer, seems to be morphing between two different shapes,
+almost as if it were alive. One moment it takes the shape of a castle, the next is assumes
+that of a large opulent manor house. Both forms are fluid and the building changes
+between the two shapes over and over in front of you. Could this be an illusion caused by
+the fog, making the definition of the building unclear? As you get to the entrance you see
+a nameplate screwed onto the left gateway pillar: `Mortus Mansion' it reads... or does it?
+Not only is the building seemingly amorphous, but also the letters on the nameplate
+dance and change shape at will as you stare. One minute it reads `Mortus Mansion', yet
+then it seems to say `Castle Heydrich'.
+
+Turn to 16
+
+                                              19
+After several minutes of feeling around in the darkness, your hand strikes a small lever in
+the far wall and a hidden doorway opens inwards into a corridor from which light floods.
+Will you step through into this new corridor? Turn to 67
+Or have you had enough shocks and wish to return to the main corridor? Turn to 48
+
+
+
+
+                                                                                           15
+
+                                             20
+You raise the stake and lunge at her chest.
+
+Test Your Skill
+If you succeed, turn to 139
+If you fail, turn to 95
+
+                                             21
+You remain where you are for five minutes, but Angharad shows no sign of movement.
+She is clearly in a trance of some sort and you decide it would be wise to intervene in
+case she is in any danger. Turn to 50
+
+                                             22
+You slip between the luxurious sheets and drift into a deep sleep. You begin to dream a
+dream of such clarity that it could almost be real:
+
+You hear footsteps approaching the bed and the curtains are drawn back to reveal two
+beautiful young women standing smiling at you. You suddenly realise that it is the twins
+who stand before you and you greet them with relieved enthusiasm. They do not respond,
+but their eyes are hypnotic and you feel yourself drawn towards them. They both clamber
+onto the bed and begin to seduce you.
+
+You awaken unexpectedly to see that there is no-one there, yet the sheets writhe and
+move around clearly female outlines. A sudden sharp pain in your neck is followed by a
+trickle of warm sticky blood, your blood, flowing from a pair of small round puncture
+wounds. You have been duped by the vampyre twins that now serve the master of this
+house and you will soon join them as his minion. You have failed miserably.
+
+                                             23
+You climb into bed and you quickly slip into a deep sleep, still tired from the past few
+days.
+Suddenly, you are rudely awoken by an urgent and frenzied hammering on your door.
+`Are you awake, lawyer? Please let me in.'
+The voice is that of Ingrid and, slightly confused as to whether this is a dream or reality,
+you pull back the covers, step out of bed, and go to the door.
+On turning the handle you are greeted by a tearful and frantic-looking Ingrid:
+`I couldn't sleep so I went to see Angharad for comfort. She didn't answer her door when
+I knocked and I know she always sings herself to sleep like our mother used to when we
+were young so I tried the door and she wasn't in her room. The bed was disturbed as if
+she had been in it and the window was wide open. We have to find her, it's totally unlike
+her to do anything or go anywhere without letting me know first. I'm really at my wits'-
+end.'
+You decide you cannot refuse the distraught Ingrid your help, and it also occurs to you
+that you will not complete your business on schedule if one of the twins is not available
+to deal with the remaining formalities. You agree to help Ingrid find her sister and
+
+
+
+
+                                                                                           16
+
+arrange to meet downstairs at the inn entrance in ten minutes, enough time to dress,
+collect your backpack, and arm yourself. Turn to 2
+
+                                             24
+Gripping on-another's hands tightly you all step forward, carefully making your way
+through the fog. After another ten metres of walking, the air becomes freezing cold and
+you are sure you can hear disjointed voices, whispering on the icy wind, telling you to
+turn back.
+Will you return with the twins to the inn? Turn to 3
+Or do you all press on? Turn to 17
+
+                                             25
+The silver box opens easily and inside is a pheasant made from marchpane. You can take
+this with you if you wish ­ it will count as 1 Provision if you eat it at any point.
+You can now either leave the room (turn to 141), or if you have not done so already, you
+could try the light brown liquid (turn to 127),or try the red liquid (turn to 31)
+
+                                             26
+In spite of the cold and probably against your better judgement, you continue onwards
+deeper into the fog... which is a serious mistake. Your scepticism led you to believe there
+was no such thing as vampires, less still the possibility of the existence of a rarer semi-
+ghost species, the Mist Vampires, which use the cover of dense fogs such as this to
+capture their prey. You have strayed into their trap together and your foolishness has
+caused you to die a terrible death. Your adventure ends here and you will never learn if
+the twins got back to the inn safely or not.
+
+                                             27
+You tell Ingrid you intend to take the east corridor and she agrees to head west. You wish
+one-another good luck and set off in opposite directions. The corridor is well-maintained
+with beautifully carved dark wood wall panelling and a highly-polished marble floor with
+a lush dark red carpet running up its central section, presumably to protect the expensive-
+looking flooring. The walls are dotted with burning torches mounted in alabaster
+cornices.
+After only a few metres, you find a door set in the left hand wall. The carpet branches off
+to reach the door as well as continuing down the corridor.
+Will you try this door? Turn to 129
+Or would you rather press on along the corridor? Turn to 89
+
+
+
+
+                                                                                           17
+
+                                               28
+You explain that a combination of the long journey and the generally eerie nature of this
+region are making it difficult for you to get to sleep and she smiles sympathetically.
+`I know the feeling. That's why I was singing the old lullaby that my late grandmother
+used to sing to Ingrid and I every night at bedtime when we were little. Shall I sing it for
+you? It might help you settle.'
+Do you encourage her to sing the song? Turn to 142
+Or would you rather just apologise for the intrusion and head back to your own room?
+Turn to 68
+
+                                               29
+You waste no time in running back along the dusty corridor and opening the door into the
+pitch black room. You hesitate briefly to see if anything untoward is about to happen and
+to your relief, nothing does. You head through the darkness in a straight line to where you
+anticipate the door to be and reach forward to fumble for the handle. As your hand
+touches the cold metal of what must be the handle an incredible pain darts up your arm.
+Lose 3 Stamina points for this powerful electric shock. If you are still alive, you turn the
+handle and are immensely pleased to see the clean, marble and wood north corridor that
+you originally came from. Turn to 48
+
+                                               30
+You pull the object easily from the earth and it reveals itself to be a sharp silver stake in
+remarkably good condition considering how long it must have rested here. You can take
+it if you wish. Now turn to 166
+
+                                               31
+You take a mouthful of the red liquid, which is thick and leaves an aftertaste of iron in
+your mouth. You have just drunk some virgin's blood, not a surprising find in a building
+surrounded by legends such as those of Castle Heydrich! Lose 1 Luck and 1 Faith point
+and turn to 141 as you leave the storeroom in disgust.
+
+                                               32
+Although you are aware of the perceived implications of multiple wounds from a
+lycanthrope, your rejection of this superstitious nonsense quickly clears any fears from
+your mind, enabling you to fight on. Return to 46 and resolve the combat with the
+Werewolf, but if it inflicts a fourth wound on you, turn immediately to 73
+
+                                               33
+The drawer slides open and is empty other than a small gold filigree crucifix, which you
+can take if you wish. There is little else of interest in this room so you decide to go back
+to the corridor. Turn to 86
+
+                                               34
+You hesitate a little as you step into the room and feel yourself being grasped by a pair of
+clammy hands. You realise too late that you are being thrown to the ground by a hideous
+Ghoul, the final trap laid by Reiner Heydrich to prevent anyone from entering his inner
+
+
+
+                                                                                            18
+
+sanctum. The Ghoul clambers onto your back and begins to bite into your clean flesh.
+Your death will not be quick, but is preferable to the endless undeath of a vampire's bite.
+
+                                              35
+The sheer enormity of this situation is too much for you. In your military days, you may
+have had the strength to cope with whatever it is you are now faced with, but years sat
+behind a desk poring over papers does not put you in good stead for the intensity of the
+terror you now feel. Your heart gives out and you collapse in convulsions. Perhaps the
+creature might feast on your remains, perhaps not. Either way, you will never find out.
+Your adventure ends here.
+
+                                              36
+The label on the picture tells you that the suave man is none other than Reiner Heydrich,
+the twins' ancestor about whom so much myth and seemingly scandalous slander
+abounds. As you examine the image you notice how intense the man's flaring eyes are
+and there is no doubt that this was a man of some presence and bearing with his baryonic
+cape, contrasted against a pure white chemise, along with hair that is slicked into a
+widow's peak. You stand transfixed for several minutes simply staring into the picture's
+eyes. Suddenly a deep voice resonates around the room: `GET OUT!' it commands and
+you are both mentally and physically shaken by its sheer force. Lose 1 Faith point. You
+run from the room and back out into the corridor. Turn to 89
+
+                                              37
+You say her name softly yet audibly, but Angharad does not respond.
+Will you try approaching her? Turn to 50
+Or would you rather wait and see what happens next? Turn to 21
+
+                                              38
+The brew tastes even worse than it smells, but is incredibly invigorating and you feel
+yourself becoming healthier than you have ever felt. Increase your Stamina to its initial
+level, adding 1 additional point to your initial Stamina for the incredible effects of the
+concoction. You thank the man and take your leave, bidding him farewell as you return to
+the corridor. Turn to 131
+
+                                              39
+You hold the crucifix at arm's-length in your left hand to ward off any undead that may
+be on the other side of the door. Turn to 55
+
+                                              40
+`Garlic flowers. Very useful,' he says. `These are a key ingredient in a herbal remedy I
+am quite adept at preparing. If you will wait awhile I shall cook some up and you can
+heal any wounds you may have?' he offers. Will you stay (turn to 78) or make your
+excuses and leave (turn to 149)?
+
+
+
+
+                                                                                          19
+
+                                             41
+You reach into your pocket and draw out a handful of the garlic blooms. `Do you plan to
+prepare luncheon with those, lawyer?' she taunts, `Garlic is for cooking, after all.'
+Will you now approach her (turn to 152), attack her (turn to 121), or raise a gold filigree
+crucifix (if you haven't already done so) (turn to 109)?
+
+                                             42
+The old man smiles in a friendly manner and invites you into his room. He explains that
+his name is Dr Henrik Karlov, an expert in herblore. Once he was an assassin, using his
+knowledge of potions to kill, but he has more recently turned to a quieter life making
+herbal remedies. You tell him how you came to be in the castle and he offers to make you
+something to help you. Do you accept this offer? If so, turn to 78. If you would rather
+take your leave of the old man and return to the corridor, turn to 131
+
+                                             43
+The paintings are well-executed and cover a variety of scenes. There are forests, the inn
+where you are staying, a single stone monolith, several internal and external views of a
+stagecoach, and a bizarre image of 8 Gold Pieces organised into the shape of a crude
+horse that someone has scrawled the words "NO WAY FORWARD ­ GIVE UP NOW"
+across in blood (perhaps Angharad wrote this as a warning to you?) Each painting is
+signed in the bottom right corner with the word "Martin" and either the number 38 or 58
+in a circle, presumably the years they were painted. Other than the chilling warning, the
+paintings are unremarkable.
+To now investigate the bed turn to 157, or to leave the room turn to 86
+
+                                             44
+The insect-bat formation rises up to the ceiling where it morphs into what is more akin to
+an actual bat, but with a fly-like head on what is otherwise now the fully-formed body of
+a huge bat. It swops down swiftly to attack you. Angharad remains in her trance and
+therefore can provide no assistance during this combat:
+
+              INSECTIVOROUS BAT ABOMINATION SKILL 8 STAMINA 7
+
+If you win, turn to 159
+
+                                             45
+Test Your Skill
+If you succeed, turn to 49
+If you fail, turn to 153
+
+                                             46
+You extinguish the single candle that lights your room and try to empty your head of
+thoughts.
+After some considerable tossing and turning you are awoken by an almighty shattering
+sound, followed by the thud of four heavy paws on the wooden floorboards of your room.
+The covers of your bed are torn away and a large Werewolf leaps onto the bed in attack.
+You must fight, but as you do not have your sword to hand, you must reduce your Skill
+
+
+                                                                                          20
+
+by 2 for this hand-to-claw combat with this creature that has literally leapt in through the
+window:
+
+                              WEREWOLF SKILL 9 STAMINA 9
+
+If the Werewolf wounds you more than three times, turn to 100
+If you win, turn to 96
+
+                                              47
+The sight that greets you as you open the door and enter the room beyond fills you with
+both joy and despair. Standing in the centre of the room is Angharad, resplendent in a
+sheer white dress akin to a wedding gown. She faces away from you with her arms raised
+in the air, the sleeves of her dress draping down in such a manner that they could almost
+resemble a bat's wings. The floor is covered with a mauve deep-pile carpet and black
+candles run around the perimeter of the room, burning with such bright flames that they
+create a square border of magnesium-white light that is blinding to look directly at. You
+focus your eyes directly on the far wall where you see Ingrid suspended from the ceiling
+beam by a thick rope which binds her wrists. She is squirming to try to free herself which
+is causing friction burns on her lower arms. Tears stream from her eyes and her face is
+white with fear. As she sees you, she cries out your name and begs you to save her. As
+she does this, Angharad spins around to face you, her eyes red and menacing. She
+advances on you, her arms still raised like wings and, as she draws closer, her heads arcs
+back and she opens her mouth wide to reveal two sets of white teeth, the upper canines of
+which are elongated and pointed.
+
+Roll two dice and compare the result to your current Faith score. If the roll is lower, turn
+to 160. If the roll is higher, turn to 88
+
+                                              48
+The corridor continues forwards for just under one hundred yards, before turning sharply
+to the right. You follow the corridor around the corner and very soon it ends at a large
+wide staircase that leads downwards. Looking beyond the staircase, you can see that
+another corridor comes from the far side and meets yours at the top of the stairs. You can
+see light muddy footprints on the carpet running from the far corridor and down the
+stairs. You begin to descend, hoping that you are following Ingrid's footsteps. Turn to
+116
+
+                                              49
+Amongst the filthy and blood-stained straw that lines the floor of the chamber you notice
+something glinting and it clangs musically as you push your sword about in the straw. On
+further investigation, the object is made of metal and, as you pull it from the straw, you
+reveal a skilfully wrought sword. The sword has magical properties and adds 1 to your
+Skill when used in combat. It also allows you to fight any undead that you may otherwise
+be unable to wound if using a normal un-enchanted weapon. Add 1 Luck point for your
+find.
+You now approach the door in the opposite wall to that through which you entered the
+chamber. Turn to 65
+
+
+                                                                                           21
+
+                                               50
+You approach Angharad and gently tap her on the shoulder. There is no reaction from her
+so you decide to grab her and pull her away from the window in case she is somehow in
+danger. As you turn her around you are horrified to see that her face is covered with a
+mass of swarming flies. She seems blissfully unaware of this, however, and simply stares
+vacantly at you.
+Will you try to shake her out of her trance? Turn to 9
+Or do you brush the flies away from her face? Turn to 119
+
+                                               51
+You tell the twins to return to the inn and that you intend to continue onwards to explore
+the assess castle that they have inherited. The twins plead with you not to go on any
+further.
+Do you listen and return with them to the inn? Turn to 3
+Or are you determined to carry on through the fog? Turn to 26
+
+                                               52
+What will you offer the old man:
+                                     A silver stake? Turn to 6
+                                     Some garlic flowers? Turn to 40
+                                     A marchpane pheasant? Turn to 75
+                                     The deeds to the castle? Turn to 54
+                                     A gold filigree crucifix? Turn to 64
+                                     Nothing. You simply take your leave? Turn to 118
+
+                                               53
+You begin to sing the lullaby that you heard Angharad singing at the inn the other night.
+She stops sobbing and looks longingly at you, her former innocent appearance returning
+to her face. She opens her mouth to thank you and, as she does, her elongated canines
+retract back into her gums and the crazed bloodlust finally disappears from her eyes. You
+are truly amazed by what happens next.
+Angharad stands up and begins to writhe as if somehow struggling with herself internally.
+She screams in pain, but then stops screaming as quickly as she had started. She sighs
+with relief as the outline of a tall man appears around her and she seems to have literally
+forced the man's form out of her body. A spectral presence now stands between
+Angharad and yourself. The form begins to speak:
+`Well, well, lawyer. So you've succeeded in freeing the child from my influence. For that
+you will forfeit your own existence by playing host to Reiner Heydrich, Prince of
+Darkness and Perpetual Overlord of Mortvania.'
+Heydrich's essence launches itself at you.
+Do you have a magic sword? If so, turn to 58. If not, turn to 151
+
+
+
+
+                                                                                          22
+
+                                              54
+The old man rifles through the documents with indifference.
+`Are you hoping to bore me to death?' he mocks. `These are useless to me. I am an
+apothecary, not an archivist. Take them back and get out of my sight. I'm not wasting one
+more minute on an idiot like you.' He thrusts the papers back in your hands.
+Do you respond by attacking him (turn to 81) or apologise and leave the room (turn to
+118)?
+
+                                              55
+The sight that greets you as you open the door and enter the room beyond fills you with
+both joy and despair. Standing in the centre of the room is Angharad, resplendent in a
+sheer white dress akin to a wedding gown. She faces away from you with her arms raised
+in the air, the sleeves of her dress draping down in such a manner that they could almost
+resemble a bat's wings. The floor is covered with a mauve deep-pile carpet and black
+candles run around the perimeter of the room, burning with such bright flames that they
+create a square border of magnesium-white light that is blinding to look directly at. You
+focus your eyes directly on the far wall where you see Ingrid suspended from the ceiling
+beam by a thick rope which binds her wrists. She is squirming to try to free herself which
+is causing friction burns on her lower arms. Tears stream from her eyes and her face is
+white with fear. As she sees you, she cries out your name and begs you to save her. As
+she does this, Angharad spins around to face you, her eyes red and menacing. She
+advances on you, her arms still raised like wings and, as she draws closer, her heads arcs
+back and she opens her mouth wide to reveal two sets of white teeth, the upper canines of
+which are elongated and pointed.
+Are you dowsed with the aroma of garlic? Turn to 103
+Or are you holding a crucifix in your out-stretched left hand? Turn to 63
+
+                                              56
+You hold the sword in an offensive manner, the blade pointed forward to allow you to get
+an initial attack in at arm's-length. Turn to 138
+
+                                              57
+You quietly leave you room, closing the door behind you carefully, and look back down
+the short landing to the two rooms that you saw the twins being lead to. Angharad's room
+is on the same side of the landing as yours, whilst Ingrid's is on the opposite side a little
+further along.
+Will you knock on Angharad's door? Turn to 154
+Or on Ingrid's door? Turn to 90
+Or would you rather go downstairs? Turn to 12
+
+
+
+
+                                                                                          23
+
+                                             58
+You raise the magic sword as Heydrich's spirit comes to a halt in front of you. He raises
+his ghostly arms and swoops to attack. As he has no tangible presence as such, his spirit
+can only be harmed by enchanted weapons. This will be a fight to the death:
+
+                     HEYDRICH'S ESSENCE SKILL 13 STAMINA 15
+
+Each time he wins an Attack Round, you must take 3 Stamina points of damage as his
+evil form burns into your soul. If you are covered in the aroma of garlic you can increase
+your Skill by 2 for this combat as Heydrich has to concentrate hard to avoid being
+naturally repelled.
+
+If you somehow win this combat, turn to 167
+
+                                             59
+In spite of the agony of the pressure on your skull, you manage to focus your strength
+long enough to wrestle her hands from your head. This creature is obviously intent on
+despatching you, so you have no real choice but to defend yourself. Turn to 121
+
+                                             60
+What do decide to hold as you enter the room (you can choose only one item):
+A marchpane pheasant? Turn to 15
+A silver stake? Turn to 113
+Some garlic flowers? Turn to 162
+A magic sword? Turn to 56
+A gold filigree crucifix? Turn to 39
+Polidori's Genealogy? Turn to 80
+Or if you prefer to not hold any of these, or do not have any of them, turn to 47
+
+                                             61
+As you approach Angharad's room you notice that the door is open slightly and a breeze
+is bristling cold damp air in through the crack. You push the door open and are surprised
+to see Angharad standing at the window looking outwards. You close the door behind
+you quietly.
+Will you announce yourself to Angharad? Turn to 37
+Would you prefer to approach her silently? Turn to 50
+Or will you wait by the door and see if anything happens - she might just be closing the
+window and be temporarily pre-occupied by something? Turn to 21
+
+                                             62
+Relieved that you have somehow survived another bizarre incident, you make your way
+up the corridor quickly, trudging with surprising ease through the thick dust layer. You
+glance behind you to reassure yourself that nothing is following you and you double-take
+to be sure you are not imagining what you now see. Your footsteps are disappearing as
+the disturbed dust moves back into position leaving no sign that you have passed. You
+take a moment to gather your thoughts and then run as fast as you can to the far end of
+the corridor, which ends at an ancient-looking gnarled wooden door. Looking behind you
+
+
+                                                                                        24
+
+a second time, you see fresh footprints sinking into the dust and heading in your
+direction. Rooted to the spot with fear, all you can do is watch, but you are relieved when
+they stop in front of you briefly, before an intensely chilling cold sensation grips your
+body and it feels as if something literally passes through you, then on through the wooden
+door. Lose 2 Stamina points for the cold chill this leaves in your body.
+Will you now open the door? Turn to 150
+Do you prefer to knock at the door? Turn to 77
+Or will you go back the way you came, through the dark room and out into the original
+north corridor you were heading up? Turn to 29
+
+                                              63
+Angharad catches a glimpse of the crucifix that you are waving in her direction. She
+recoils and cowers in the near corner of the room, shielding her eyes from the holy
+symbol which glints and glimmers as the candlelight catches it. Turn to 72
+
+                                              64
+`Hmm, very nice. Very nice indeed. I swear I've seen one like this around the place
+before, but it's handy to have one myself. Very useful around here, these are,' he says,
+taking the crucifix from you. `You can go now. I forgive you your indiscretion.' You
+infer from his words that you may live to regret surrendering this object. Lose 1 Luck
+point. The man gestures you out and you now carry on along the corridor. Turn to 131
+
+                                              65
+From the other side of the door you can hear the sounds of a struggle and two female
+voices, which you recognise as those of Angharad and Ingrid, who are shouting at each
+other.
+Will you enter the room immediately (turn to 47) or select an item from your pack before
+you open the door (turn to 60)?
+
+                                              66
+As you sleep, you dream:
+
+You are walking up a barren hillside and you are getting ever nearer to a huge stone
+megalith. As you grow closer it starts to change shape, writhing and melting into a
+human form ­ the form of a tall stately-looking man dressed in the style of at least a
+hundred years ago, if not more. He gestures for you to draw closer and his mouth is
+moving as if he wishes to speak. You move close enough to hear what he is saying and the
+gentleness of his voice puts you at ease:
+`You have proved yourself to be a man of honour, lawyer. By freeing that wretched
+creature from its torment, you have shown us that we have not misplaced our hopes.
+Allow me to introduce myself: I am Siegfried Heydrich, one-time lord of this building and
+the surrounding region. My brother Reiner befouled this once great place and cursed this
+region with a terrible pestilence. Some say he was Nosferatu, a vampire, and his foul
+legacy was believed to be destroyed forever. The creature you have just released from its
+curse was his bastard half-breed child, a dhampir - half-human, half-vampire,
+condemned to reside in this place, suffering all the eternal torment of a vampire, but with
+
+
+
+                                                                                         25
+
+none of the power. We are in no doubt that there is still time to save her grandchild from
+the terrible fate that could await her, but you must work fast. Take this object and learn
+from it.'
+
+You suddenly jerk awake and find a leather-bound book by your hand. You examine the
+cover and read its gilded lettering:
+
+                                    Polidori's Genealogy
+
+You open the book and read page upon page describing the Heydrich bloodline. You
+learn that the twins are the grandchildren of Maria Heydrich, the dhampir that you have
+recently destroyed, herself the daughter of Reiner Heydrich and a local peasant girl by the
+name of Nastassia that he once abducted.
+You read all of the book, which has 106 pages. Gain 2 Stamina points for the rest, and
+also 1 Luck point and 2 Faith points for your discovery.
+A new doorway has now appeared at the farthest side of the room to where you entered
+from and you decide that this must be a portent of the way forward. Turn to 156
+
+                                              67
+You close the door behind you and step into the welcome torchlight of the corridor. In
+spite of the seemingly freshly-lit appearance of the torches that run along the walls, this
+corridor appears otherwise to have been neglected for a long time. Dust sits inches-deep
+on the floor and myriad cobwebs hang every which way. This is very unlike the
+immaculate look of the parts of the house that you have already explored and a shiver
+runs down your spine as a large spider descends on a single thread of silk and comes to
+rest, dangling just in front of your face. The spider remains motionless and simply
+revolves in mid-air by its thread.
+Will you brush the spider aside and press on? Turn to 132
+Or will you wait to see what happens next, if anything? Turn to 74
+
+                                              68
+You make your excuses and head back to your room, closing Angharad's door behind
+you. Turn to 145
+
+                                              69
+You wander aimlessly around the ruins alone for what seems like ages, getting quite
+bored as you measure up what is nothing more than rubble and collapsed stonework. A
+general examination of the plants that have taken root in the gaps in the mortar of the
+walls produces some tiny garlic flowers, which you can take if you want to.
+It is not long before the twins announce that this is a thoroughly underwhelming
+experience and insist on returning to the inn to get some food and to sleep off last night.
+You all return to the inn where you have dinner then decide to turn in for an early night.
+Turn to 108
+
+
+
+
+                                                                                           26
+
+                                              70
+You turn the handle but the door is locked.
+Will you knock at the door? Turn to 155
+Try to barge the door open? Turn to 146
+Or follow the corridor around to the left instead? Turn to 131
+
+                                              71
+You tell Ingrid you intend to take the west corridor and she agrees to head east. You wish
+one-another good luck and set off in opposite directions. The corridor is well-maintained
+with beautifully carved dark wood wall panelling and a highly-polished marble floor with
+a lush dark red carpet running up its central section, presumably to protect the expensive-
+looking flooring. The walls are dotted with burning torches mounted in alabaster
+cornices.
+After a few hundred yards of waking, the corridor swings to the right in a northerly
+direction, but there is also a door immediately in front of you in the corner of the
+corridor. The red carpeting extends to the door as well as turning north.
+Do you wish to try the door? Turn to 133
+Or is the urgency of the need to find Angharad more important than exploring rooms?
+Turn to 141
+
+                                              72
+With Angharad temporarily incapacitated, you run to the far side of the room where you
+fumble with Ingrid's bonds and untie her. She throws her arms around you and relates the
+story of how she found Angharad asleep in this room, lying on the floor surrounded by a
+pentagram of black candles. An unseen force then slammed to door of the room shut and
+Ingrid was unable to open it. She started to panic at which point Angharad rose from her
+slumber and advanced on her, grabbing her and dragging her with an incredible and
+unnatural strength across the room, before tying her as you have just found her. Angharad
+had then arranged the candles around the wall and began to perform a bizarre ritual
+dance, whirling around the room like a dervish. She then raised her arms in the bat-like
+position you came across her in and started to stare menacingly at Ingrid. Ingrid had tried
+to reason with her sister, but she seemed totally absorbed in her macabre act, although
+there were signs of recognition amidst the reverie.
+You both look across the room at Angharad, who is now speaking to you in a child's
+voice:
+`Sing to me, grandmother. Then it will all be better. The monsters will be afraid then,
+mother. Sing to me, please, and make the monsters go away.'
+You think fast. If you have read Polidori's Genealogy you will know the identity of the
+twins' grandmother. Turn now to the paragraph which is the same as the number of pages
+in the Genealogy. If you do not know this information, turn to 161
+
+                                              73
+The force of this blow from the creature's sharp claws causes you to blanche as you
+realise what this really means. You feel faint and stumble onto the floor, allowing the
+beast to sink its teeth into your leg. You scream out in pain and the creature looks around
+in alarm as you hear footsteps approaching from the landing. Someone must have been
+
+
+
+                                                                                         27
+
+alerted by the noise and the Werewolf takes its chance to leap onto the window ledge,
+then from the broken window into the dark night outside. The innkeeper bursts into your
+room with the twins trailing behind him. Angharad screams as she looks at you and you
+cock your head to one side quizzically as you try to say her name but only a weak growl
+eminates from your mouth. `I knew there was something not quite right about ye,' says
+the innkeeper and you only get a brief glimpse of your now hair-covered face reflected in
+the flashing silver blade that the man swings in a circular manner, cleaving your head
+clean off your shoulders. The twins scream as Mortvania's newest blight dies.
+
+                                              74
+The spider continues to revolve on its silky rope and you start to feel a little mesmerised
+by it.
+
+Roll one die and compare the result to your current Faith score. If the result is higher,
+turn to 5. If the result is lower, turn to 93
+
+                                              75
+`Hmm, very nice. Very nice indeed. A curious creation if ever there was one. Doubtless
+delicious too,' he says, taking the sweetmeat from you. `You can go now. I forgive you
+your indiscretion.' The man gestures you out and you now carry on along the corridor.
+Turn to 131
+
+                                              76
+You decide that it would be for the best if the twins understood exactly how their family
+was and is viewed in this land and you divulge the limited details that the case documents
+have told you. They laugh off any suggestion that there may ever have been any "evil" in
+their family and you are quick to agree with them that it must just be foolish superstition.
+As you say this you cannot help noticing that the landlord and the few others in the inn
+cross themselves and make the mark of the evil eye but, again, you reassure yourself that
+this is a simple country populated by simple people.
+Eventually you suggest that it might be prudent to retire to bed as you all have an early
+start tomorrow. The three of you are shown up a flight of stone steps and to your rooms
+by the landlord.
+Do you wish to go directly to bed? Turn to 145
+Or will you explore the inn a little? Turn to 57
+
+                                              77
+You rap on the door with your fist but, bizarrely, you can hear no noise coming from
+your knocking. You knock harder, but still no sound comes. Regardless of how hard you
+knock, you fail to produce any kind of sound at all. Careful not to do any damage to your
+hand by vainly hammering on the door any further you now have two options:
+To open the door, turn to 150
+If you decide you have had enough of this weird corridor and wish to head back through
+the dust to the dark room and out into the original north corridor you were heading up,
+turn to 29
+
+
+
+
+                                                                                          28
+
+                                              78
+After an hour or so of crushing herbs, boiling liquids in flasks over burners, and mixing it
+all together to create the most pungent smell you have ever had the misfortune to
+experience, the old man presents you with a mug of cloudy liquid.
+Do you drink it? Turn to 38
+Or do you decline? Turn to 149
+
+                                              79
+No sooner have you pressed your lips against her hand and she grabs your head firmly
+with both hands and begins to crush your skull.
+
+Test Your Skill
+If you succeed, turn to 59
+If you fail, turn to 97
+
+                                              80
+You hold the book in front of your chest as if it will afford you protection of some kind.
+Although you feel a little foolish, you prepare yourself for whatever awaits you on the
+other side of the door. Turn to 148
+
+                                              81
+You draw your sword and advance on the old man who looks a little startled at your
+reaction. He produces a large mace from under his jacket and swings it with surprising
+skill. Indeed, he can handle himself, as Dr Karlov is an ex-assassin who later turned to
+basic medicine to seek a quieter life in his old age. This will not be as simple as you had
+hoped:
+
+                            DR. KARLOV SKILL 11 STAMINA 7
+
+If you defeat the old man, turn to 165
+
+                                              82
+You turn the conversation to the subject of your disturbing dream about Castle Heydrich.
+The twins both instantly reveal that they too had the same dream. In fact, even more
+curiously, you all had the same dream at roughly the same hour. As odd a coincidence as
+this is, the discovery that you are not alone in having been affected in this way comes as a
+reassurance to you. Gain 1 Faith point for the comfort this brings. Eventually the topic
+changes to logistics and legal matters and you ultimately prepare to set off to the castle's
+site together. Turn to 122
+
+                                              83
+You draw your sword and prepare to fight the creature, which flails its fists about in fury
+at your reaction:
+                              DHAMPIR SKILL 12 STAMINA 8
+
+If you win, turn to 136
+
+
+
+                                                                                          29
+
+                                              84
+After several minutes of fruitless searching, you find no hidden exits of any kind. You
+can now either investigate the bed, if you haven't already (turn to 143) or leave through
+the door by which you entered this room (turn to 29)
+
+                                              85
+The third wound from the Ghoul's raking diseased fingernails causes you to drop your
+sword, your body stiffening as the putrid creature's paralysing touch courses through
+your veins. You will make a fine meal for Reiner Heydrich's final trap, which has been
+efficacious in protecting his inner sanctum.
+
+                                              86
+If you wish to try the door on the opposite (right hand) side of the corridor turn to 94.
+Otherwise, to carry on up the corridor turn to 48
+
+                                              87
+Test Your Luck
+If you succeed, turn to 164
+If you fail, turn to 105
+
+                                              88
+Seeing the twins in this state fills your mind with thoughts of hopeless failure. Somehow
+Angharad has become that which you were so determined did not exist, and poor forlorn
+Ingrid looks set to follow. Tears well up in your eyes, as Angharad grasps your head and
+fractures your hyoid bone with a swift twisting of your neck. You drop to the floor in a
+lifeless heap having come so close yet failed so miserably. Your adventure ends here, the
+vampire's legacy having come to fruition.
+
+                                              89
+Shortly after the door, the corridor takes a sharp left turn and heads north. You follow the
+corridor for several hundred yards until you reach a sharp turning to the left. A door is on
+the right hand wall in the corner of the corridor and the carpet extends out to it. Will you
+try the door (turn to 70) or follow the corridor around to the left (turn to 131)?
+
+                                              90
+You knock quietly on the door to Ingrid's room, but there is no response.
+Will you try the door? Turn to 134
+Will you try Angharad's room instead? Turn to 154
+Would you like to go downstairs? Turn to 12
+Or do you prefer to retire to bed? Turn to 145
+
+                                              91
+A brief search of the shelves produces little of use other than food preparing utensils, but
+you do find two bottles containing liquids (one red, one light brown) and a large silver
+box with `For the Special Guests ONLY' written on the side in a flourishing hand.
+
+
+
+
+                                                                                           30
+
+Do you wish to drink from one of the bottles? If so, does the red liquid interest you (turn
+to 31 to drink this) or the light brown liquid (turn to 127 to drink this.) Alternatively, do
+you want to take a look in the large box (turn to 25) or have you seen enough here and
+want to carry on up the north corridor (turn to 141)?
+
+                                              92
+As you enter your room you are greeted by the innkeeper, who has a crossbow trained on
+you:
+`So it was you was the werewolf around here, then. Damned outsiders. No sooner is the
+foul name of Heydrich heard in Mortvania again and good people start dying, just like in
+the old days.'
+Before you can try to explain what really happened, you see a silver quarrel hurtling
+towards you. With deadly accuracy, it thuds into your heart, passing directly through it
+and leaving a gaping exit hole as it embeds itself in the wall behind you. The locals may
+be simple, but they certainly know how to deal with werewolves and such like. You are
+dead even before your body hits the floor.
+
+                                              93
+You grow increasingly more hypnotised by the spider's perpetual motion but, suddenly,
+your trance is broken as the dust on the floor in front of you starts to divide and the top of
+a decayed rotting head begins to rise out of the ground. You have just enough time to
+unsheathe your sword before the Zombie has risen to full height and lumbers towards
+you. You must fight this witless creature that is mindlessly doing the bidding of its
+malevolent master:
+
+                                ZOMBIE SKILL 8 STAMINA 7
+
+If you win, a search of the tattered rags the Zombie wears produces a rat's skull with a
+few strands of human hair caught in the teeth ­ you recognise the hair as being the same
+colour as Angahard's. You quickly cast from your mind any thoughts that this pathetic
+revenant might have been the last thing she ever saw and make quick progress down the
+corridor. Turn to 62
+
+                                              94
+You open the door onto a room which is in complete darkness and is totally silent. The
+light cast from the torches in the corridor reveals little more than vague shadows in the
+otherwise impenetrable black void of this room.
+Do you wish to proceed into the darkness (turn to 158) or close the door and continue up
+the corridor (turn to 48)?
+
+                                              95
+Moving far quicker than you are able to, the creature side-steps your attack and, in a
+stealthily fluid motion, grabs your arm, bending it around so that the stake now points at
+your chest. She then wheels around in a roundhouse kick, whipping your legs out from
+under you. You fall quickly, living just long enough to realise that the stake has passed
+
+
+
+
+                                                                                            31
+
+directly through your chest cavity, puncturing your heart and emerging from your back.
+Your adventure ends here.
+
+                                              96
+The werewolf whimpers pathetically as you manage to punch it so hard in the windpipe
+that it chokes on the blood that was already building up in its mouth from your previous
+blows. It collapses in front of you as if scythed down and you watch in horror as the fur
+on its body shrinks rapidly back into its skin, leaving the naked body of one of the men
+you remember seeing downstairs in the bar area earlier. Around his neck is a talisman
+with the letter H stamped on it which you can take if you wish.
+Exhausted by the fight, you push the man's body under the bed (you do not want anyone
+finding a local's body under your broken window come daybreak), take the covers and
+curl up in a corner of the room to finally find sleep. Turn to 18
+
+                                              97
+You try to wrest her hands from your head but, try as you might, you find it impossible to
+focus your strength with such intense pain in your head. The last thing you see is a wry
+smile cross the creature's lips as the sound of rending and crushing skull bone explodes
+in your ears. Your one consolation is that this is probably a preferable death to one at the
+hands of a vampire. Your adventure ends here.
+
+                                              98
+You tell Angharad that you have a problem with involuntary somnambulism, apologise
+for the intrusion, and leave the room, closing the door behind you.
+You return quickly to your own room feeling slightly embarrassed at the intrusion. Lose
+1 Luck point. Turn to 145
+
+                                              99
+Your final blow cleaves the Ghoul's head clean from its body and it falls to the floor
+dead. You wipe its foul blood on the straw that lines the floor of this chamber.
+Do you wish to explore the Ghoul's lair (turn to 45) or do you prefer to make for a door
+you can see in the far wall (turn to 65)?
+
+                                              100
+The third wound from the werewolf tears a wide gash in your chest and your warm blood
+streams down your torso.
+
+Roll two dice and compare the result with your current Faith score:
+If the result is lower than your Faith, turn to 32. If the result is higher than your Faith,
+turn to 73
+
+                                              101
+In spite of her pleas, you push the point deeper into the creature's heart until its grip starts
+to loosen and it falls to its knees, slumping onto its right side. Before its eyes close for the
+last time, its mouth raises a serene smile as if death has somehow come as a relief to it.
+No sooner has the creature stopped moving and the room is filled with a tangible aura of
+
+
+
+                                                                                              32
+
+happiness as you once again feel the same cold sensation that you experienced before
+entering this room, but this time the cold is strangely comforting and you suddenly feel a
+great inclination to sleep. The lavish silk sheets of the bed seem to beckon you towards
+them and you cannot resist approaching the huge bed and losing yourself in its
+luxuriance.
+You drift into a welcome and deep sleep. Turn to 66
+
+                                                102
+The corridor continues for some distance and you are aware that the air grows
+increasingly stale, almost foetid. You have to cover your mouth with your hand to avoid
+vomiting, the stench is so bad.
+Eventually, the corridor ends at a single wooden door with scratch marks and small spots
+of fresh blood spattered about it.
+You shiver with fright as you realise that this may well be the blood of one or both of the
+twins and resolve to carry on, aware that you must surely be close to finding them.
+You grasp the handle and turn it. Turn to 126
+
+                                                103
+Just as Angharad is poised to bite at your neck, she recoils at the scent of the garlic, and
+cowers in the near corner of the room, rubbing her eyes and nose as they bleed and burn
+with pain. Turn to 72
+
+                                                104
+`Your room is the next one along on this side of the landing,' she tells you, clearly having
+fallen for your awkward explanation. You thank her, apologising for your "error" and it
+occurs to you that Angharad might be unusually naive for her age. You close her door
+and head back to your room. Turn to 145
+
+                                                105
+Evidently, the inn's goblin chambermaid has done a particularly thorough job of cleaning
+your room today and has found the body under the bed. As you open the door to your
+room you are greeted with the sight of two burly militiamen who disarm and cuff you
+before you have time to think or react:
+`So there was no werewolf around here anymore after all, then. Damned outsiders. No
+sooner is the foul name of Heydrich heard in Mortvania again and good people start
+dying, just like in the old days.'
+You are lead from the room in chains and bundled into a small and uncomfortable jailor's
+coach. If you are lucky, you will live an extra day if the local judge can be bothered with
+a trial. It is likely, however, that your guilt is all too obvious and you will probably go
+directly to your execution tomorrow. Your adventure ends here.
+
+                                                106
+You remind Angharad who her grandmother was and tell her that Maria Heydrich is now
+at peace. Angharad looks in recognition and begs you to sing to her and "make the
+monsters leave her alone". Have you ever heard a lullaby that the twins' grandmother
+sang to them every night as children? If so, you will know how many verses it has.
+
+
+
+                                                                                           33
+
+Divide the current paragraph number by the number of verses in the lullaby and turn to
+the new reference now. If you have not heard the song, or the new paragraph makes no
+sense, then turn to 161
+
+                                              107
+You step confidently into the room, hopeful of rescuing the twins.
+The sight that greets you is not of the girls, but of a hideously deformed, semi-decayed
+human figure moving deftly towards you. Its clothes are in tatters and in various places
+the flesh is missing revealing yellowed bone. The Ghoul grins evilly at you and advances,
+clawing at the air with its filthy talons. You must fight:
+
+                                 GHOUL SKILL 8 STAMINA 6
+
+If the Ghoul wins three Attack Rounds, turn to 85
+If you defeat the foul creature without sustaining three wounds in total, turn to 99
+
+                                              108
+Did you kill a Werewolf last night and hide the body under your bed? If so, turn to 87.
+Otherwise, turn to 23
+
+                                              109
+You produce the crucifix and thrust it in her direction. She merely shrugs her shoulders
+and calmly says, `Did you not hear what I just said, lawyer?'
+Will you try to repel her with some garlic flowers (if you haven't already done so)? Turn
+to 41
+Alternatively, will you approach her (turn to 152), or attack her (turn to 121)?
+
+                                              110
+As you kick away the final rat corpse from the bed, Ingrid's face turns from abject terror
+to happy relief:
+`Thank you,' she says, `there is nothing in all of Titan that I fear more than rats.'
+You console her and, once she is over her fear, you think to check the ceiling that had
+fallen in as the rats fell onto the bed. To your surprise, the hole that was there is gone and
+the ceiling is completely intact. Ingrid does not seem to have noticed, sheer relief being
+enough to console her right now, so you try to clear your mind and take your leave before
+Ingrid gathers her thoughts and enquires as to your unsolicited presence in her room.
+You settle her, tell her you will see her at breakfast in the morning, and return to your
+room to try to finally get some uninterrupted sleep. Turn to 18
+
+                                              111
+As your final blow cuts into the creature you are surprised to see it simply vanish into
+thin air, its disappearance also taking all the light from the room. You are once again in
+total darkness.
+Will you leave the room, not wishing to see what other horrors it may have in store for
+you? Turn to 48
+
+
+
+
+                                                                                            34
+
+Or will you fumble around in the darkness hoping that this room may still yield a pleasant
+surprise? Turn to 8
+
+                                             112
+You are transfixed by the gesturing figure and cannot resist stepping forwards. The gates
+open and you glide effortlessly along the main pathway towards the front door. The door
+opens and the figure stands before you. Its eyes flare red with glee and you feel a light
+scratch as your neck is punctured by two sharp fangs.
+Even the dreamworld is deadly when vampires are about and you will never awake from
+this reverie that will remain your home forever, damned to perpetually roam somewhere
+between reality and illusion. Your adventure ends here.
+
+                                             113
+You hold the stake in your left hand with point positioned forwards, poised to strike at
+anything that may threaten you on the other side of the door. Turn to 148
+
+                                             114
+As you are walking back towards the agreed meeting point, your foot catches on
+something protruding from the ground.
+If you want to stop and investigate this, turn to 30
+If you would rather ignore the object, turn to 166
+
+                                             115
+You have walked barely a few metres together when an impenetrably thick fog suddenly
+descends around you, reducing visibility to less than five feet in front of you. The air is
+damp and chilly and your mind begins to play tricks on you. The glow of the silver eyes
+that you thought you saw on arrival at the inn last night is visible not far from you and
+you reach out to each side to take the hands of the twins, who willingly snatch at your
+hands in response. Their palms are clammy and Angharad tells you she does not like this
+at all. You speak Ingrid's name to make sure it is indeed her hand that you are also
+holding and you are relieved when her voice responds in the affirmative, adding that she
+does not think it wise to go any further. She proposes that you all return to the inn and
+check through all the documents you have brought. `If all else fails,' she suggests, `we
+can always visit the castle site tomorrow.'
+The potential delaying of your schedule bothers you, but there is no doubt that this fog is
+incredibly dense and strangely disconcerting.
+Will you suggest that the three of you press on through the fog? Turn to 24
+Will you send the twins back to the safety of the inn and carry on alone? Turn to 51
+Or do you suggest that that sounds like a sensible idea and take the twins back to the inn?
+Turn to 3
+
+                                             116
+You make your way down the wide wooden staircase, which ends at a single corridor
+leading southwards. This corridor has a polished wooden floor, but the walls are still
+lined with torches to light your way. Turn to 102
+
+
+
+
+                                                                                           35
+
+                                             117
+Rising from the bed is a young woman with a dirty face and ragged, matted black hair.
+She has unusually large eyes and a pronounced, almost disfiguringly large nose. As she
+steps from the bed, you notice that she wears a green silk nightgown but is barefoot, her
+toenails long and yellowed. She makes her way towards you and speaks in an
+unexpectedly soothing, even familiar, voice:
+`Do not be afraid, lawyer. I mean you no harm. I despise the succubi as much as you,
+maybe even more so.'
+How will you react?
+To approach her, turn to 152
+To attack her, turn to 121
+To hold up a gold filigree crucifix, turn to 109
+Or to hold out some garlic flowers, turn to 41
+
+                                             118
+`There's just no getting any peace, no matter how hard I try,' grumbles the old man as he
+slams the door in your face. You hear the key turn in the lock from inside and have no
+choice but to carry on along the corridor. Turn to 131
+
+                                             119
+You reach forwards and as soon as your hand touches the mass of flies you feel an
+intense burning sensation shoot up your arm as if an unseen venomous creature has
+somehow bitten into your hand. Lose 2 Stamina points for this strange but all too real
+pain. As you grip your hand a vague smile appears on Angharad's lips as the insects rise
+from her face as one and hover over her head briefly before consolidating themselves into
+a single mass which takes the rough form of a large black bat. Turn to 44
+
+                                             120
+You swing the enchanted weapon around your head and slice Angharad's head off her
+shoulders as the blade arcs through the air. Her head bounces twice on the carpeted floor,
+then comes to rest as it collides with a candle that quickly ignites her hair. Soon the head
+is blazing and you think you can discern a fading scream as it burns. The body collapses
+in front of you. You kick the headless corpse to be sure it will not reanimate, then take
+your opportunity to run to the far side of the room where you untie Ingrid's bonds. The
+room is beginning to blaze as you drag Ingrid from it and run back through the straw-
+strewn Ghoul chamber, up the staircase and around the corridor to the main entrance.
+From the safety of the outside courtyard you both watch in awe as the fire in the building
+quickly takes hold. An inferno is soon raging and you both run through the night back to
+the sanctuary of the inn.
+Castle Heydrich and whatever evil lurks within it has been destroyed, but at what price?
+You have failed to save Angharad, but Ingrid and yourself are alive and safe. You have
+survived and Ingrid will inherit the worthless ruins as planned, but this is a hollow victory
+that cost the life of Angharad.
+
+                                             121
+Do you have a silver stake? If so, turn to 20. If not, turn to 83
+
+
+
+                                                                                           36
+
+                                               122
+You set off on foot on what is a day of total contrast to yesterday morning ­ the sun is
+shining brightly and the sky is a shimmering blue with no clouds at all. It is not long
+before you all finally reach the ruins of the castle. The outer perimeter wall remains
+largely intact, but little remains of the building itself other than charred rubble and a few
+crumbling walls covered with moss and creepers. The site itself is large and suggests that
+the castle that once stood here was indeed as impressive as the sketch in your documents
+shows, if not even more so. It will take an hour or so of roaming around the site to
+complete a general survey of the scale and footprint of the original structure. You discuss
+how best to assess the site overall.
+Do you wish to explore alone? Turn to 10
+Or would you like to remain with the twins, if only for company? Turn to 69
+
+                                               123
+Due to today's ordeal, your room feels more welcoming than it did the first night, but
+your lack of progress in visiting the ruins plays on your mind. Yes, you have managed to
+deal with the paperwork that was required, but you are conscious that the twins wish to
+see their inheritance and try to connect with their past in a material sense. Your open
+rejection of local folklore and paranoia has done little to deter the twins from witnessing
+first-hand what remains of Castle Heydrich and their slightly over-zealous curiosity is at
+odds with your logical approach to life. You lie restlessly on your bed for an hour, unable
+to get to sleep.
+Will you remain in your room until sleep inevitably takes you? Turn to 46
+Will you go to Ingrid's room for company? Turn to 128
+Or do you prefer Angharad's company? Turn to 61
+
+                                               124
+You turn the handle and the door opens into a vast bedchamber. A huge wooden four-
+poster stands at the far wall, whilst much of the floor area between you and the foot of the
+bed is taken up by a tigerskin rug. The walls are lined with numerous paintings.
+Would you like to examine the bed (turn to 157), take a look at the paintings (turn to 43),
+or close the door and return to the corridor? (Turn to 86)
+
+                                               125
+After a lengthy search, the room yields nothing of any use and you eventually leave this
+horrible chamber before anything else unpleasant befalls you. Turn to 48
+
+                                               126
+Roll two dice and compare the result to your current Faith score. If the result is lower,
+turn to 107. If the result is higher, turn to 34
+
+                                               127
+You sip at the light brown liquid, which is warming in your mouth. As you swallow some
+you feel invigorated. Gain 2 Stamina and 1 Faith point for the re-assuring taste of an
+excellent brandy. You can take the rest of the bottle with you if you want to. There is
+
+
+
+                                                                                            37
+
+enough left for two more sips, each of which will restore 2 Stamina points ­ you can
+drink these whenever you wish.
+If you have not done so already, you may now either open the box (turn to 25) or drink
+some of the red liquid (turn to 31). If you have already tried the liquids and opened the
+box, or do not want to do these, you can leave the room and continue north (turn to 141)
+
+                                             128
+Approaching Ingrid's room, you can hear the sound of her snoring loudly from within.
+You open the door and step carefully inside. Even if she will not awaken you would feel
+more comfortable and safe curling up in the corner of her room and trying to sleep. After
+all, if anything untoward happens, at least you can attempt to protect each other.
+You have only just dozed off, when you hear an almighty crash as a section of the ceiling
+falls inward and a seething and writhing mass of dark fur pours in through the hole.
+Ingrid awakes with a scream and, although surprised at seeing you in her room, she
+gestures towards the mass that is forming on her bed. She is almost paralyzed with fear
+and all that comes from her terrified lips are the words `Nothing worse, nothing worse.'
+You move closer. In the flickering candle-light it is apparent that the mass is actually a
+large group of Plague Rats that must number at least twenty. Before you can defend
+Ingrid or yourself the rats bizarrely form themselves into a rough H shape before
+launching themselves in your direction. You fight them as one enemy. Ingrid can do
+nothing as she is cowering in terror:
+
+                        PLAGUE RAT HORDE SKILL 7 STAMINA 9
+
+If you win, turn to 110
+
+                                             129
+You enter a large square room with the same marbled floor as the corridor. The room is
+totally bare other than a single portrait which hangs on each of the three internal walls.
+Would you like to examine a painting? If so, do you choose a portrait of a woman (turn to
+13), a dark portrait of a suave-looking man (turn to 36), or a very faded and damaged
+painting (turn to 144)? Or, if the pictures do not have any appeal to you, you return to the
+east corridor (turn to 89)
+
+                                             130
+The voices grow louder and more intense and you begin to feel like your head will
+explode with the tinny pitch. But as suddenly as the laughter began, it stops and the room
+is once again filled with an eerie silence and pitch darkness. The silence itself is ominous
+after the evil laughter you have just heard.
+Do you remain in the room? Turn to 14
+Or will you open the door and go back into the corridor? Turn to 48
+
+                                             131
+You follow the corridor around the corner and very soon it ends at a large wide staircase
+that leads downwards. Looking beyond the staircase, you can see that another corridor
+comes from the far side and meets yours at the top of the stairs. You can see light muddy
+
+
+
+                                                                                          38
+
+footprints on the carpet running from the far corridor and down the stairs. You begin to
+descend, hoping that you are following Ingrid's footsteps. Turn to 116
+
+                                              132
+You raise your hand and, as you make contact with the spider's body, it spins around and
+sinks its fangs into your hand. Lose 2 Stamina points. Luckily, its bite is not poisonous,
+and you are able to dislodge the spider, which falls to the ground and scampers off up the
+corridor and out of sight. Turn to 62
+
+                                              133
+The door opens into a small dimly-lit storeroom with shelves running along its walls.
+Would you like to check the shelves to see if there is anything here that could be useful?
+Turn to 91
+Or will you close the door and press on up the north corridor? Turn to 141
+
+                                              134
+The door opens inwards into a simple room lit in one corner by a single candle which
+casts just enough light for you to be able to make out Ingrid's form sleeping soundly in
+the bed at the centre of the room. Not wishing to panic her with your sudden presence,
+you carefully leave the room, closing the door behind you.
+Will you now try Angharad's room? Turn to 154
+Or go back to your room to bed yourself? Turn to 145
+
+                                              135
+In spite of their insistence and the effects of the ale you have consumed you deflect their
+questions and keep the discussion as light and non-specific as you can.
+Eventually you suggest that it might be prudent to retire to bed as you all have an early
+start tomorrow. The three of you are shown up a flight of stone steps and to your rooms
+by the landlord.
+Do you wish to go directly to bed? Turn to 145
+Or will you explore the inn a little? Turn to 57
+
+                                              136
+Your final blow bites deep into the creature's side and it falls to the floor in front of you.
+You can now examine the bed (turn to 143) or try to find an exit other than the way you
+came in (turn to 84)
+
+
+
+
+                                                                                            39
+
+                                               137
+Gripping your heart, which is now beating at an incredible rate, you somehow manage to
+stay standing. Gain 1 Luck point for simply still being alive. Although your eyes have
+now accustomed themselves to the newly-lit room, you do not have any time to take in
+your surroundings before the foul creature in front of you forms itself into the physical
+manifestation of your absolute worst fear and springs towards you.
+You are fighting for your life:
+
+                          EMBODIMENT OF
+                           PRIMAL FEAR         SKILL 10 STAMINA 14
+
+If you survive this combat, turn to 111
+
+                                               138
+The sight that greets you as you open the door and enter the room beyond fills you with
+both joy and despair. Standing in the centre of the room is Angharad, resplendent in a
+sheer white dress akin to a wedding gown. She faces away from you with her arms raised
+in the air, the sleeves of her dress draping down in such a manner that they could almost
+resemble a bat's wings. The floor is covered with a mauve deep-pile carpet and black
+candles run around the perimeter of the room, burning with such bright flames that they
+create a square border of magnesium-white light that is blinding to look directly at. You
+focus your eyes directly on the far wall where you see Ingrid suspended from the ceiling
+beam by a thick rope which binds her wrists. She is squirming to try to free herself which
+is causing friction burns on her lower arms. Tears stream from her eyes and her face is
+white with fear. As she sees you, she cries out your name and begs you to save her. As
+she does this, Angharad spins around to face you, her eyes red and menacing. She
+advances on you, her arms still raised like wings and, as she draws closer, her heads arcs
+back and she opens her mouth wide to reveal two sets of white teeth, the upper canines of
+which are elongated and pointed.
+Will you immediately attack Angharad with the magic sword? Turn to 120
+Or will you take a moment to think of something else to do first? Turn to 160
+
+                                               139
+You thrust the stake into the creature's heart and its eyes open wide with terror as it feels
+the sharp point press against its heart. It tries to wrestle the stake from your hand whilst
+pleading with you to spare its life.
+
+Roll two dice and compare the result with your current Faith score:
+If you roll under your Faith, turn to 11
+If the roll is higher than your Faith, turn to 101
+
+                                               140
+You suddenly awaken with a jolt, your body sodden with the cold sweat of fear. Lose 1
+Stamina point as you spend the rest of the night trying to get as much broken sleep as you
+can in spite of this all-too-lucid dream.
+
+
+
+
+                                                                                            40
+
+You wake up the following morning, still shaken by your dream of the illusory castle, but
+your sense of incredulity reminds you that is was just a dream. You go downstairs to
+breakfast where the twins are waiting for you. Turn to 4
+
+                                             141
+Heading north up the corridor you reach two doors facing one-another, one in the left
+wall and one in the right wall. The carpet once again extends out to these two doors.
+Do you wish to try either of the doors? To try the left door turn to 124, or to try the right
+door turn to 94.
+To carry on up the corridor, turn to 48
+
+                                             142
+Angharad has a pleasant if slightly child-like and off-key singing voice, but the song she
+sings is positive and, given the circumstances of where you are forced to currently reside,
+you do indeed feel relaxed. Gain 1 Faith point.
+You listen to both verses of Angharad's song before thanking her and making your way
+back to your room. As you leave, Angharad tells you that she can sense that you are a
+well-meaning person. Turn to 145
+
+                                             143
+You draw back the curtains which surround the bed and see shimmering silk sheets that
+are very welcoming after your recent ordeals. Will you climb into the bed to sleep (turn
+to 22) or would you rather look for an exit other than the way you came in (turn to 84)?
+
+                                             144
+The painting is badly defaced, with knife slashes across the face and much of the paint is
+either burned or rubbed away. There is little that is distinguishable other than the label,
+which reads Siegfried Heydrich. The name jogs your memory and you are reminded of
+having seen this name mentioned in the deeds to the site as a one-time owner of Castle
+Heydrich. This is interesting, but otherwise inconsequential to you, so you can now either
+look at the picture of the woman (turn to 13), the picture of the suave man (turn to 36), or
+you can decide that this room has nothing to offer you and press on in search of
+Angharad (turn to 89)
+
+                                             145
+Your room is basic but accommodating, and the soft warm bed is welcome after the days
+and hours of travel you have endured to reach Mortvania. You are asleep within minutes
+of your head hitting the eider-down pillow.
+The next morning you awaken at sunrise and go down to breakfast where the twins are
+already waiting for you. You eat a cooked breakfast of bacon and thickly cut bread and
+then the three of you set off the short distance to the ruined castle site on foot.
+Turn to 115
+
+                                             146
+You brace yourself and prepare to charge the door with your shoulder. As you are about
+to make contact with the wood, the door opens and you stumble through, across a small
+
+
+
+                                                                                            41
+
+room, and finish up in a crumpled heap at the far side, having crashed into several
+shelves, the contents of which are falling all around you. Lose 2 Stamina points.
+You look up to see a small bespectacled old man in a silk smoking jacket who offers you
+his hand with an amused expression on his face:
+
+`My my, just where are your manners?' he chides. `It will take months to replace the
+damage you have done. Give me an item of value and I'll let you go unpunished.'
+
+Will you give the old man something? Turn to 52
+Or will you attack him? Turn to 81
+
+                                             147
+Not wishing to appear foolish, you think it would be better not to relate your disturbing
+dream to the twins and the conversation is quickly turned to logistics and legal matters
+and you ultimately prepare to set off to the castle's site together. Turn to 122
+
+                                             148
+The sight that greets you as you open the door and enter the room beyond fills you with
+both joy and despair. Standing in the centre of the room is Angharad, resplendent in a
+sheer white dress akin to a wedding gown. She faces away from you with her arms raised
+in the air, the sleeves of her dress draping down in such a manner that they could almost
+resemble a bat's wings. The floor is covered with a mauve deep-pile carpet and black
+candles run around the perimeter of the room, burning with such bright flames that they
+create a square border of magnesium-white light that is blinding to look directly at. You
+focus your eyes directly on the far wall where you see Ingrid suspended from the ceiling
+beam by a thick rope which binds her wrists. She is squirming to try to free herself which
+is causing friction burns on her lower arms. Tears stream from her eyes and her face is
+white with fear. As she sees you, she cries out your name and begs you to save her. As
+she does this, Angharad spins around to face you, her eyes red and menacing. She
+advances on you, her arms still raised like wings and, as she draws closer, her heads arcs
+back and she opens her mouth wide to reveal two sets of white teeth, the upper canines of
+which are elongated and pointed.
+With an unusually strong swipe of her arm, she knocks the object from your hand with a
+mocking laugh and tries to fix you with her stare.
+
+Roll two dice and compare the result to your current Faith score. If the roll is lower, turn
+to 160. If the roll is higher, turn to 88
+
+                                             149
+You thank the old man for his kind offer, but explain that you are somewhat pressed for
+time.
+`So be it. Your loss,' he replies, and shows you to the door. You must now carry on along
+the corridor. Turn to 131
+
+
+
+
+                                                                                           42
+
+                                            150
+With some trepidation, you grip the door handle and turn it. The door opens very easily
+given its heavy appearance and you step forward into a well-kept bed chamber,
+completely in contrast with the dusty unkempt corridor you have come from. Lavish
+black tapestries hang along the wall and a large and elaborately-carved four-poster bed
+stands in the centre dominating the room.
+You close the door behind you and, as you do, you hear the rustling of bed sheets. Turn
+to 117
+
+                                            151
+Heydrich raises his ghostly arms and swoops in attack. As he has no tangible form as
+such, his spirit can only be harmed by enchanted weapons. You are totally defenceless
+and his essence engulfs your body and you are quickly consumed, doomed to become his
+next acolyte for eternity. Your adventure ends here, having failed to prevent the legacy of
+the vampire from coming to fruition.
+
+                                            152
+Her pleasant tone reassures you and you raise your hand to grasp hers in an attempt to
+kiss it in welcome. As your face gets closer to her hand you are surprised to see that she
+has no fingernails ­ where they should be is just frayed flesh but this unsettles you rather
+than repulsing you.
+Will you continue with the kiss? Turn to 79
+Or will you attack her? Turn to 121
+
+                                            153
+A thorough search of the chamber reveals nothing more than filthy straw, a few areas of
+mouldy brickwork, and the skeletal remains of the Ghoul's past victims.
+You now approach the door in the opposite wall to that through which you entered the
+chamber. Turn to 65
+
+                                            154
+You knock quietly at the door of Angharad's room and, although there is no response,
+you can make out what sounds like a female voice singing softly.
+Do you try the door? Turn to 163
+Will you try Ingrid's room instead? Turn to 90
+Would you like to go downstairs? Turn to 12
+Or do you prefer to retire to bed? Turn to 145
+
+                                            155
+A gruff voice from within says `Hang on, I'm on my way' and you hear light footsteps
+coming to the door. The sound of a key turning from the inside is heard, then the door
+opens to reveal an odd-looking little old man staring at you inquisitively: `Yes, what is
+it?' he asks.
+Will you attack the man? Turn to 81
+Ask for help? Turn to 42
+Or apologise and walk away? Turn to 118
+
+
+
+                                                                                          43
+
+                                              156
+You step through the door into a similar corridor to the original one you were heading
+north on before you entered the pitch-black room. This corridor runs from north to south
+and you surmise that south will take you back to the main entrance, so you turn
+northwards.
+You follow the corridor for several hundred yards until you reach a sharp turning to the
+left. A door is on the right hand wall in the corner of the corridor and the carpet extends
+out to it. Will you try the door (turn to 70) or follow the corridor around to the left (turn
+to 131)?
+
+                                              157
+You step carefully around the tigerskin rug and are relieved to see that it is simply a rug
+and nothing more. You reach the bed which is made with luxurious yellow silken sheets,
+but you cannot help noticing that there are several red stains spotted about them. Lose 1
+Faith point as you dip your finger in the blood and realise with horror that it is fresh,
+perhaps even that of Angharad. Under the bed is a wooden drawer built into its frame.
+Will you check in the drawer? Turn to 33
+Would you like to take a look at the paintings? Turn to 43
+Or will you leave the room now, as you are feeling a little nauseated? Turn to 86
+
+                                              158
+Against your better judgement, you enter the blackness and close the door behind you.
+The second the door shuts, shrill voices begin to laugh maniacally and jeer at you.
+Will you remain in the room? Turn to 130
+Or will you open the door and go back into the corridor? Turn to 48
+
+                                              159
+In your final blow, the abomination explodes into a mist of tiny fly appendages which
+dissipate out of the still open window. You take your chance to slam the window shut to
+keep anything even more unpleasant from entering the room. As soon as the window
+closes, Angharad snaps out of her trance, looks a little surprised to see you in her room,
+and asks why you are flushed. You explain the odd events that have just occurred but she
+seems to know nothing about them. All she can recall is that she had noticed her candle
+flame flickering about as if being blown by a draft so she had gone to the window to
+check that it was fully closed. The next she knew you were standing there as you are now
+and this conversation had begun.
+You settle her, tell her you will see her at breakfast in the morning, and return to your
+room to try to finally get some uninterrupted sleep. Turn to 18
+
+
+
+
+                                                                                            44
+
+                                            160
+You try to block the gravity of the situation from your mind and focus on a logical way of
+handling this, but you must think fast and you only have one chance to make a decisive
+move.
+Will you:
+          Not delay and simply attack Angharad with your magic sword? Turn to 120
+          Hold out some garlic flowers? Turn to 103
+          Hold up a crucifix? Turn to 63
+          Try none of these? Turn to 88
+
+                                            161
+You watch with despair as Angharad pleads to no avail. You simply do not know enough
+about the Heydrich bloodline to be able to help her expunge the true legacy of the
+vampire.
+Suddenly taking hold of herself again, Angharad opens her mouth to speak, but the voice
+is not hers, instead it is deep, commanding, and chills you to the bone:
+`I warned you, fool. Did you really believe you could interfere in my taking what is
+rightfully mine to own.'
+Angharad's head jerks from side to side as she flashes glances at the candles which fall
+over, spilling flame and hot wax onto the deep pile of the carpet. You try to grab at the
+door handle, but the door is now locked. You run to Ingrid who embraces you in stricken
+terror. You can only watch as the flames quickly take hold of the room. The last thing
+you see as you collapse, choking on the smoke, to the floor is Angharad opening the door
+and then closing it behind her again with an evil laugh of victory. The legacy of the
+vampire will soon prey on Mortvania's people once again.
+
+                                            162
+You crush some of the flowers in your left hand and wipe the strong-smelling residue on
+your face and neck to deter any vampires that might attempt to attack you. Turn to 55
+
+                                            163
+You grasp the handle and the door opens into a simply decorated room with a small
+dresser by a window and a large bed positioned centrally. Angharad sits by the window
+with the curtains open. The full moon casts its light across the room and weird shadows
+play on the wall furthest from the window. Angharad has not noticed you entering the
+room and is singing to herself as she stares out of the window. As you close the door
+behind you, your reflection appears in the window and she stops singing, startled at your
+sudden appearance. She turns around and is relieved to see that the ghostly image in the
+window was simply your reflection.
+`You frightened me,' she says with a smile on her lips. `What can I do for you?'
+Do you respond that you must have been sleepwalking? Turn to 98
+Do you say that you could not sleep? Turn to 28
+Or do you think it would be less suspicious to simply say that you went to the bathroom
+and must have picked the wrong door on the way back to your room? Turn to 104
+
+
+
+
+                                                                                         45
+
+                                             164
+Evidently, the inn's goblin chambermaid has not done a very thorough job of cleaning
+your room today as she did not find the body under the bed. However, are you wearing a
+talisman with the letter H stamped in it? If you are, turn to 92. Otherwise, turn to 23
+
+                                             165
+The old man falls down dead in front of you. He may have been cantankerous but he was
+not an evil person. Lose 1 Luck point for killing an innocent man unnecessarily. You can
+now either search the man's room (turn to 7) or close the door and return to the corridor
+(turn to 131)
+
+                                             166
+You arrive back at the gates where the twins are already waiting for you, looking
+disappointed with their "castle". The twins announce that this has been a thoroughly
+underwhelming experience and insist on returning to the inn to get some food and to
+sleep off last night.
+You all return to the inn where you have dinner then decide to turn in for an early night.
+Turn to 108
+
+                                             167
+Heydrich's spirit form dissipates into the air with your final blow. You hear a final
+pathetic whimper as his malign existence is erased from Mortvania for good. The twins
+look at you with a combination of awe and confusion.
+You sit down in the ritual chamber and get your breath. The twins ask what is to come
+next: `Paperwork,' you reply with a smile, `We still have your legacy to finalise.'
+Heydrich's bloodline has been cleansed and maybe now there really is no such thing as
+vampires anymore. You have ensured that the legacy of the vampire is nothing more than
+a simple transaction of land inheritance. You have worked rather harder than normal to
+earn your legal fees this time, but you are victorious in your unexpected mission.
+
+
+
+
+                                                                                         46
+

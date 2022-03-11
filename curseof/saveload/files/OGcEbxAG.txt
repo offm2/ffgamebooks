@@ -1,0 +1,1 @@
+MININC,23,10,9,4,,20,,,,copper_key,,,ruby_ring,,,,,,,book,,,medallion,,shovel,shield,,,,,bedpan,,crucifix,,,,,,,,,yes2,10,10,23,,

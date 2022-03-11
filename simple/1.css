@@ -1,0 +1,8 @@
+body {background-color:black !important;color:lighred !important;} 
+.jumbotron {
+background-image: url(images/Wallpaper01.jpg);
+background-size:cover;
+}
+.jumbotron  h3{color:white;}
+.jumbotron  h4{color:white;}
+.jumbotron  p{color:white;}

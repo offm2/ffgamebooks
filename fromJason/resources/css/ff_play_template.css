@@ -1,0 +1,259 @@
+/* column container */
+.colmask {
+	position:relative;	/* This fixes the IE7 overflow hidden bug */
+	clear:both;
+	float:left;
+	width:100%;			/* width of whole page */
+	overflow:hidden;		/* This chops off any overhanging divs */
+	min-height:100%;
+}
+/* common column settings */
+.colright,
+.colmid,
+.colleft {
+	float:left;
+	width:100%;			/* width of page */
+	position:relative;
+}
+.col1,
+.col2,
+.col3 {
+	float:left;
+	position:relative;
+	padding:0 0 0 0;	/* no left and right padding on columns, we just make them narrower instead 
+					only padding top and bottom is included here, make it whatever value you need */
+	overflow:hidden;
+}
+
+/* 3 Column settings */
+.threecol {
+	# background:#333;		/* right column background colour */
+}
+.threecol .colmid {
+	right:25%;			/* width of the right column */
+	# background:#333;		/* center column background colour */
+}
+.threecol .colleft {
+	right:50%;			/* width of the middle column */
+	# background:#333;	/* left column background colour */
+}
+.threecol .col1 {
+	width:50%;			/* width of center column content (column width minus padding on either side) */
+	left:100%;			/* 100% plus left padding of center column */
+}
+.threecol .col2 {
+	width:25%;			/* Width of left column content (column width minus padding on either side) */
+	left:25%;			/* width of (right column) plus (center column left and right padding) plus (left column left padding) */
+}
+.threecol .col3 {
+	width:25%;			/* Width of right column content (column width minus padding on either side) */
+	left:75%;			/* Please make note of the brackets here:
+					/*(100% - left column width) plus (center column left and right padding) plus (left column left and right padding) plus (right column left padding) */
+}
+
+body{
+# background-color:#333;
+}
+
+#top_left_pane{
+text-align:center;
+}
+
+#middle_banner{
+text-align:center;
+}
+
+#top_right_pane{
+text-align:center;
+}
+
+#navigation_strip{
+
+}
+
+#navigation_strip p{
+margin:0;
+text-align:center;
+}
+
+#character_sheet_window{
+position:relative;
+padding:10px;
+}
+
+#character_sheet{
+position:relative;
+min-height:350px;
+}
+
+#actions_window{
+position:relative;
+padding:10px;
+}
+
+#actions{
+position:relative;
+min-height:350px;
+}
+
+#content_window{
+position:relative;
+padding:30px 50px;
+}
+
+#content{
+position:relative;
+min-height:450px;
+}
+
+.content_border_decoration{
+position:absolute;
+}
+
+.corner_box{
+width:50px;
+height:30px;
+}
+
+.corner_box_small{
+width:10px;
+height:10px;
+}
+
+.parchment_background{
+background-color:#ffcc66;
+background-image:url('graphics/Parchment_Back.gif');
+}
+
+#top{
+background-image:url('graphics/Parchment_Top.gif');
+top:0px;
+left:50px;
+right:50px;
+height:30px;
+}
+
+#right{
+background-image:url('graphics/Parchment_Right.gif');
+right:0px;
+top:30px;
+bottom:30px;
+width:50px;
+}
+
+#bottom{
+background-image:url('graphics/Parchment_Bottom.gif');
+bottom:0px;
+left:50px;
+right:50px;
+height:30px;
+}
+
+#left{
+background-image:url('graphics/Parchment_Left.gif');
+left:0px;
+top:30px;
+bottom:30px;
+width:50px;
+}
+
+#top_left{
+background-image:url('graphics/top_left.gif');
+top:0px;
+left:0px;
+}
+
+#top_right{
+background-image:url('graphics/top_right.gif');
+top:0px;
+right:0px;
+}
+
+#bottom_left{
+background-image:url('graphics/bottom_left.gif');
+bottom:0px;
+left:0px;
+}
+
+#bottom_right{
+background-image:url('graphics/bottom_right.gif');
+bottom:0px;
+right:0px;
+}
+
+.top_small{
+background-image:url('graphics/Parchment_Top_Small.gif');
+top:0px;
+left:10px;
+right:10px;
+height:10px;
+}
+
+.right_small{
+background-image:url('graphics/Parchment_Right_Small.gif');
+right:0px;
+top:10px;
+bottom:10px;
+width:10px;
+}
+
+.bottom_small{
+background-image:url('graphics/Parchment_Bottom_Small.gif');
+bottom:0px;
+left:10px;
+right:10px;
+height:10px;
+}
+
+.left_small{
+background-image:url('graphics/Parchment_Left_Small.gif');
+left:0px;
+top:10px;
+bottom:10px;
+width:10px;
+}
+
+.top_left_small{
+background-image:url('graphics/top_left_small.gif');
+top:0px;
+left:0px;
+}
+
+.top_right_small{
+background-image:url('graphics/top_right_small.gif');
+top:0px;
+right:0px;
+}
+
+.bottom_left_small{
+background-image:url('graphics/bottom_left_small.gif');
+bottom:0px;
+left:0px;
+}
+
+.bottom_right_small{
+background-image:url('graphics/bottom_right_small.gif');
+bottom:0px;
+right:0px;
+}
+
+#play_navigation_text{
+color:#9966ff;
+}
+
+#account_link{
+
+}
+
+#abandon_link{
+
+}
+
+.image_pane_image{
+width:100%;
+max-height:300px;
+}
+
+#banner{
+
+}

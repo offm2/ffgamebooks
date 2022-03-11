@@ -1,0 +1,1 @@
+<p>Copyright (c) <span id="year"><?php echo date("Y"); ?></span> http://fanbooks.fightingfantasy.net. All rights reserved. </p>

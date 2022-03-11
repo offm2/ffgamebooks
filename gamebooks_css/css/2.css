@@ -1,0 +1,14 @@
+* {margin: 0; padding: 0}
+#header {border-bottom:2px solid #DEC79B ;clear:left;margin:auto}
+#right {float: right}
+#menu {float: left; list-style: none; text-align: center; width: 122px}
+#content {border-left: 2px solid #DEC79B; margin-left: 122px; padding: 50px;background-color:#f1f1f1;color:#1b1b1b}
+#rodape {clear:left;border-top:2px solid #DEC79B;}
+.inv{margin:auto}
+h3 {text-align:center;font-family:Comic Sans}
+h4 {text-align:right}
+img {border: 2px solid #DEC79B; margin: 10px; padding: 10px}
+body{background-color:#f1f1f1;color:#1b1b1b}
+p{font-family:Baskerville,Arial,Verdana;text-indent:20px;font-size:18px;line-height: 1.25em;padding: 0 0 1em 0;text-align: center}
+a{color:darkred}
+button{background-color:#A6D095}

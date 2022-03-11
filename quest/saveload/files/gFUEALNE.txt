@@ -1,0 +1,1 @@
+red,11,12,10,9,,65,,fireball,warhammer,silver_dagger,vial_green,earth_spell,,N:Grimbar,silver_ring,,,,,,word:skulls,golden_key,bronze_ring,Number:19,,flute,silver_bell,12,10,0,15,17,

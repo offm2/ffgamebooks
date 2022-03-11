@@ -1,0 +1,14 @@
+body{
+        background-image: url(images/parchment_large_1.jpg);
+	background-repeat: repeat;
+        background-size: cover;
+	background-attachment:fixed;
+} 
+.jumbotron{
+background-image: url(wallpaper/Wallpaper07.jpg);
+background-size:cover;
+}
+.jumbotron  h3{color:white;}
+.jumbotron  h4{color:white;}
+.jumbotron  p{color:white;}
+

@@ -1,0 +1,1 @@
+FINI,15,9,8,4,yes,20,,,,,,,ruby_ring,,,,,,,book,,,,,shovel,shield,,,,,bedpan,,crucifix,,,,,,,,,yes2,9,9,17,,

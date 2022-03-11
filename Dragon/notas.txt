@@ -1,0 +1,7 @@
+estou na pag.89
+item2=CURSE;item4=number_18;item5=4StoneBalls;
+item6=Ebony_key#11;item7=number_7;item8=Golden_Arrow
+item9=Orb;item10=number_15;item11=lever_pulled;
+item12=mahogany_bow;item13=secretp34;item14=BOWL
+item15=number_1;
+

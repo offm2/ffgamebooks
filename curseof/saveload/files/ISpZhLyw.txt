@@ -1,0 +1,1 @@
+CCONN,21,12,8,4,,20,,,,copper_key,,silver_key,ruby_ring,,,,,,,book,,wooden_stake,medallion,,shovel,shield,diamond_ring,,,,bedpan,,crucifix,,crystal_rod,no,,,,,SEMUS,yes2,12,11,21,,

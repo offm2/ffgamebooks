@@ -1,0 +1,1 @@
+CCONN,19,12,8,4,,20,,,,copper_key,matches,silver_key,ruby_ring,,voodoo_doll,,,,,book,,wooden_stake,medallion,,shovel,shield,diamond_ring,,,,bedpan,,crucifix,,crystal_rod,no,yes,,,,SEMUS,yes2,12,11,21,,

@@ -1,0 +1,10 @@
+ErrorDocument 400 /error_page.html
+ErrorDocument 401 /error_page.html
+ErrorDocument 403 /error_page.html
+ErrorDocument 404 /error_page.html
+ErrorDocument 500 /error_page.html
+RewriteEngine on
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.php -f
+RewriteRule ^(.*)$ $1.php
+# Replace html with your file extension, eg: php, htm, asp

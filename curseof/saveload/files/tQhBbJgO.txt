@@ -1,0 +1,1 @@
+FANEVA,0,10,8,4,,20,yes,skull,,copper_key,matches,silver_key,ruby_ring,animal_bone,voodoo_doll,pin,,,,book,screwdriver,,,talisman,shovel,shield,,,,candles,bedpan,dagger,crucifix,golden_key,crystal_rod,,yes,XODUS,,,SEMUS,yes2,10,12,19,,

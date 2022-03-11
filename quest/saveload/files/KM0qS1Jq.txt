@@ -1,0 +1,1 @@
+gui,22,11,11,5,,17,,fireball,,,vial_green,,,,silver_ring,,,,,,word:skulls,,,,,,,2,0,0,22,82,

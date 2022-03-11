@@ -1,0 +1,8 @@
+﻿item1=yellow_jewel;item2=number_7;item3=gold_scale;item4=winged_helmet
+item5=old_parchment;item6=battle_axe;item7=rope;item8=vialcliquid;
+item9=genieandbottle;item10=up_vial;item11=honey_jar;item12="number_21";item13="number_40";
+item14="number_91";item15="5times10";
+
+
+
+

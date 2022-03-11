@@ -1,0 +1,16 @@
+item1=monkey_head;
+item2=dog_tag#1;item3=steel_key;item4=talisman;piano playing yes/no;
+item5=vv_claw;item6=dog_tag#1;item7=dog_tag#80;
+item8=brass_key;item9=dog_tag#40;item10=ivory_duck
+item11=pickaxe;item12=garden_guardian;note="go_to_#164_first";
+item13="f_ghoul_blood";
+item14=dog_tag#66;item15=white_werewolf;
+item16=silver_dagger;item17=despair_doll;item18=calamus;item19=lotus_flower
+item20=wormwood_herb;item21=computer_virus;curse=1;item22=silver_whistle;
+code=+20+20-10;item23=spikenard_oil;item24=chalice;
+
+
+
+
+
+

@@ -1,0 +1,19 @@
+body{
+	color:black;
+}
+
+a:hover{
+	color: #008000;
+}
+
+.tt{
+	color: blue;
+}
+
+.opt{
+	color: green;
+}
+
+.be{
+	color: red;
+}

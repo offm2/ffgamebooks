@@ -1,0 +1,26 @@
+a:hover{
+	text-decoration: none;
+	color: #FF3333;
+}
+
+a.emphasis{
+	color: #FFFF66;
+}
+
+a.emphasis:hover{
+	text-decoration: none;
+	color: #FF3333;
+}
+
+.center{
+text-align: center;
+}
+
+table.center{
+margin-left: auto;
+margin-right: auto;
+}
+
+dd.spaced{
+margin-bottom: 1em;
+}

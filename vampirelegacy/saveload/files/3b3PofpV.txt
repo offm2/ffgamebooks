@@ -1,0 +1,1 @@
+Spoon,5,13,11,15,5,0,garlic_flowers,silver_stake,golden_crucifix,magical_sword,,p_genealogy,,,9,9,8,0,13,15,0,21,12,9,8,39,

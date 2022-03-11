@@ -1,0 +1,1 @@
+CCONN,21,12,10,4,,20,,,,,,,ruby_ring,,,,,,,book,,,,,shovel,shield,,,,,bedpan,,crucifix,,,,,,,,,yes2,12,11,21,,

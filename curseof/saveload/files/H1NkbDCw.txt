@@ -1,0 +1,1 @@
+G,9,7,11,4,,20,,,,copper_key,,,ruby_ring,animal_bone,,,,,,book,,,medallion,,shovel,shield,,,,,bedpan,,crucifix,,,yes,,,,,,yes2,7,12,16,,

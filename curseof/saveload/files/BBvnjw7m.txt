@@ -1,0 +1,1 @@
+Modomand,5,11,7,4,,20,yes,skull,,copper_key,matches,silver_key,ruby_ring,animal_bone,voodoo_doll,pin,hair_locket,,HTOB,book,screwdriver,wooden_stake,medallion,talisman,shovel,shield,diamond_ring,,,candles,bedpan,dagger,crucifix,golden_key,crystal_rod,no,yes,XODUS,,,SEMUS,yes2,11,10,21,239,

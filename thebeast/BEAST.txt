@@ -1,0 +1,194 @@
+﻿KILL THE BEAST
+A FIGHTING FANTASY GAMEBOOK
+by
+VICTOR CHENG
+
+
+In this adventure you are a simple villager knowing very little in the ways of exploration, combat and magic, and so your attributes are reduced. Roll one die, halve the value (rounding fractions up) and add 4 to get a final total. This is your SKILL score. For your STAMINA and LUCK, roll one die and add 6.
+
+
+
+INTRODUCTION
+
+
+For many years your village has lived in relative peace away from the perils of adventure and the laws of corruption. Occasional attacks from bandits and wild animals are only a mild hindrance compared to the damage caused by bad weather. Homes can be rebuilt and crops re-sown. But now, a new threat has befallen your village. It came from nowhere: demolishing houses, crushing crops underfoot, and carrying away helpless villagers. You tried to stop it to no avail. Its soil-covered hide turned aside any blows you managed to land. It was no use. The last thing you remember is a great mound of a body dripping with mud and roots dragging behind it. It had tentacles, primitive limbs and big eyes - dreadful, demonic eyes.
+
+You wake shortly after being seen to by the village healer. Your head still hurts a little from when the creature swatted you aside. Looking around, you are filled with sorrow seeing part of your village in ruins. "It happened so fast, so sudden," says the woman next to you. "The Beast came from nowhere. It went on a rampage. It took my boy...my..." You try to comfort her as she bursts into tears.
+
+That night, the village elders gather to discuss what can be done to prevent further devastation. Since there is not a single fighter among you, it is decided that one person must brave the moors following the river to seek aid from the next town. The rest must get to work setting up barricades and defences should the Beast return. Thirty Gold Pieces is all that can be spared. Three courageous souls step up to volunteer: a herbalist, a farmer and a blacksmith. The village elders choose you. But which of these characters do you want to be? 
+
+Go to paragraph 17 to learn more about them.
+
+
+1
+Gathering your possessions (record a Torch, Knife, 5 Provisions and 30 Gold Pieces on your Adventure Sheet), you head out at first light, hoping that the Beast will not be up and roaming so early. The villagers watch you leave with heavy hearts for their fates depend on you. Soon both they and the village become a mere speck in the distance. You cut through the corn fields rejoining the road path that forks ahead. The northern trail leads into the woods, whilst the trail northwest will take you on a more direct route across the moors. If you are the Farmer, turn to 25. If not, do you travel north (turn to 29) or northwest (turn to 11)?
+
+2
+You endure one of the most frightful hours of your life in the cave. You keep still in the darkness afraid to make even the slightest noise. The Beast wanders here and there, seemingly knowing that there is someone about. It passes the cave twice hissing and growling. Thankfully, it soon tires of the search and moves elsewhere leaving you in silence. You dare not sleep for fear that it should return to look for you. Lose 1 Luck point. With the approach of dawn, you pluck up the courage to check the surroundings before exiting the cave. The valley begins to widen and you leave the river behind to follow what looks a wagon trail going over the hills. You scale it without too much difficulty and standing at its peak, you are relieved to see a town within walking distance. To enter, turn to 9.
+
+3
+Your heart leaps when your saviour returns with evidence of the Beast's demise and you offer your thanks over and over. Add 1 Luck point. Now you must journey back to your village to spread the news. Will you take the path across the moors (turn to 39) or through the woods (turn to 16)?
+
+4
+A tentacle coils around your leg but you slash it off with your knife and stab at its underbelly. The creature's hide seems to be comprised of solid earth and your knife breaks from the impact. If you don't have another weapon you must reduce your Attack Strength by 1 in combat until you find a replacement. The Beast slams into you knocking you to the ground (lose 1 Stamina point). Will you flee now that you have lost your knife (turn to 7) or are you still keen on making a stand (turn to 37)?
+
+5
+Unwittingly you have chosen to rest in an area that is part of an animal's territory. It catches your scent and you must defend yourself with your knife as it charges at you.
+
+WILD ANIMAL     SKILL   6     STAMINA   5
+
+You cannot Escape. If you win, turn to the paragraph number you noted earlier.
+
+6
+The hills at the end of the valley look familiar - you must be nearing your village. You make haste towards them but a figure blocks your path. He demands that you give him 5 Gold Pieces or he will run you through...then take your gold anyway. If you can and wish to give the bandit 5 Gold Pieces, he will let you pass. Turn to 35. Otherwise, he engages you in combat.
+
+BANDIT     SKILL   7     STAMINA   6
+
+If you are triumphant, turn to 35. If he kills you, at least you can take comfort in the fact that your village will be safe. But you will not see it again. Your adventure ends so near and yet so far from home.
+
+7
+You flee into the night. The Beast pursues you but soon gives up. You keep running until your legs tire and you pause for breath. You may eat provisions here as you rest and wait for dawn. If you are the Herbalist, you discover a plant in the undergrowth that you recognise for its healing properties. You may use it to restore any Skill points you may have lost. If you are the Blacksmith and have lost your knife, you need not make any deductions to your Attack Strength in combat since your strength is as effective as any weapon. If you are the Farmer, you dig up a few edible tubers. It's hardly a banquet but they are nourishing and you may restore 2 points of Stamina. Did you come through the woods (turn to 40) or did you cross the moors into a valley (turn to 8)?
+
+8
+You carry on through the valley which begins to widen and you leave the river behind to follow what looks a wagon trail going over the hills. You scale it without too much difficulty and, standing at its peak, you are relieved to see a town within walking distance. To enter, turn to 9.
+
+9
+While you are in town, you can buy a knife for 3 Gold Pieces and provisions at 1 Gold Piece per meal. Your desperate pleas for aid attract the attention of several would-be heroes. Quickly, you relate the dire situation to them. The Warrior is the most expensive at 20 Gold Pieces. The Sorceress can be hired for 15 Gold Pieces, and lastly, the Knight asks only for 5. Decide on who you wish to hire and deduct the appropriate amount of Gold from your Adventure Sheet. Whose services have you bought?
+
+Warrior. Turn to 12.
+Sorceress. Turn to 33.
+Knight. Turn to 26.
+
+If you can no longer afford anyone or if there is no one left to help, turn to 34.
+
+10
+Your aid comes back to town looking worse for wear and moans bitterly at you. "That foul monster was far larger than you described. I barely escaped with my life. If you want me to face that thing again, it'll cost you another 5 Gold Pieces." As you consider this demand, your aid quaffs a potion and recovers 4 Stamina points. If you can afford the price and want to pay up, you do so. Return to 20 and finish the fight - this time to the death. If you reconsider, you call for one of the other heroes. Return to 9 and choose someone else.
+
+11
+Open country is always more dangerous. There are many hills and rough terrain about and progress is often hard. By noon you have left the trail for more even ground and come into a valley where a river flows. You should be able to reach your destination by following it. You must rest a while and eat a meal. Make a note of the number 30 on your Adventure Sheet and roll one die. If you roll a 1 or 2, turn to 36. If you roll a 3 or 4, turn to 5. If you roll a 5, turn to 27. If you roll a 6, turn to 18.
+
+12
+The Warrior wears a simple tunic and carries a large axe. He assures you that his skill is such that he has yet to face a worthy opponent. He looks every bit as tough as he claims. These are his attributes:
+
+SKILL   12
+STAMINA   15
+LUCK   7
+
+You tell him where you last encountered the Beast and he tells you to stay put and await the news of his victory. For the next paragraph only, you must take control of the Warrior's actions. Turn to 20.
+
+13
+This is folly. The Beast is far too powerful for you to handle and any strike you eventually land is futile against its tough hide. You must try to escape its clutches but it costs you a total of 4 Stamina points and 1 Skill point. If you are still alive after the battering, turn to 7.
+
+14
+You approach the trees in front of you. There is plenty of cover and your flame dispels a little of the surrounding darkness, but you feel very vulnerable all the time. Twigs snap and leaves crunch nearby. Terror grips you and you draw your knife crouching behind a large oak. Silence descends. You can't see anything out there. Just as you are beginning to question whether it was the Beast after all, the ground beside you heaves and a great barrel of a creature bursts out from the earth itself. You scream and fall backwards as it takes a ponderous step towards you. Your light illuminates a toothy maw and those nightmarish eyes. It towers over you shaking off mud, roots and gravel to reveal numerous arms and tentacles. It roars and makes a grab for you. Will you strike with your knife (turn to 4) or make a run for it (turn to 7)?
+
+15
+The valley begins to widen and you leave the river behind to follow what looks a wagon trail going over the hills. You scale it without too much difficulty and, standing at its peak, you are relieved to see a town illuminated by streetlamps within walking distance. Suddenly, the sound of snapping branches and rustling leaves makes you turn to see a tree toppling. A huge silhouette rises from the earth itself and you know it is the Beast. A terrible roar rends the air and you flee in panic towards the town before the light of your torch fails. Night has fallen so now is probably not the best time to go looking for help. You decide to rest at an inn until morning. A room costs 2 Gold Pieces and it is another 2 for cooked food. If you take the room only, you can restore 2 points of Stamina and you must eat one of your own provisions. If you pay for food as well, you can restore up to 4 points of Stamina. You enjoy a good night's sleep and get back to the task at hand early the next day. Turn to 9.
+
+16
+Thrilled at your success, you journey hastily through the woods stopping only to catch breath. Progress slows when the trees become more tightly packed and soon you have to pause for a short break. You must eat a meal. You have not gone far when a couple of impish humanoids burst out of the foliage sneering at you. They carry shortswords and their intentions are far from friendly. You must fight them together.
+
+GOBLIN     SKILL   5     STAMINA   5
+GOBLIN     SKILL   5     STAMINA   4
+
+If you win, turn to 35. If they kill you, at least you can take comfort in the fact that your village will be safe. But you will not see it again. Your adventure ends so near and yet so far from home. 
+
+17
+If you choose the Herbalist, you will be able to recognise and gather many types of herbs and plants that grow in the area. These you can use to counter poisons, heal wounds and deter certain animals.
+
+If you choose the Farmer, you will know a little more about the countryside around your village having worked in the fields for most of your life. You are quite capable in cultivating plants and vegetables for the best results.
+
+If you choose the Blacksmith, most of your time will be spent hammering away in the forge producing objects of iron and repairing metalwork. Years of practice have developed your strength and you may add 2 to both your current and Initial Stamina scores. 
+
+When you have decided on your character, turn to 1.
+
+18
+You spot a corpse lying amongst some bushes nearby. On closer inspection you see that it is a young adventurer who has suffered many grievous wounds. His killer, however, has overlooked a box that has rolled out of his torn backpack into the long grass. The box is locked. Only if you are the Blacksmith do you succeed in opening it and are delighted to find a Potion of Strength inside which will restore your Stamina to its Initial level. You can drink it at any time except during combat. If you are not the Blacksmith, it stays stubbornly shut and you discard it in frustration. Turn to the paragraph number you noted earlier.
+
+19
+You find two daggers, a total of 8 Gold Pieces between them and a snake branded on their wrists. It looks like a bandit mark so there may be more of their fellows out there. You hide the bodies before leaving. Turn to the paragraph number you noted earlier.
+
+20
+The hysterical villager claimed that the Beast was somewhere between the woods and the valley hills. You expect a large creature to be easy to track but there doesn't appear to be any sign of its whereabouts. Soon you come to an area of fallen trees and crushed vegetation. It is likely the Beast came this way recently. Then you notice a huge shadow looming behind you and just manage to evade it as a great mound of roots and dripping soil descends upon you. It growls with hate and reaches out with a misshapen arm to crush the life out of you. You must fight.
+
+THE BEAST     SKILL   12     STAMINA   15
+
+If the Beast has fought earlier, amend its scores accordingly. Any damage you inflict on the creature is reduced by 1 point due to its tough hide. If you are the Sorceress, you can fling Fireballs at the Beast causing it to lose 2 points of Stamina and 1 point of Skill with each Attack Round you win. (You can increase the damage to 4 points of Stamina and 1 point of Skill if you successfully Test your Luck, but no damage is caused if you fail.) You can Escape back to town at any time if you succeed in hitting it at least twice. You cannot do this if you are the Knight. If you kill it, turn to 3. If not, make a note of its scores. If you flee back into town, turn to 10. If you are slain by the Beast, turn to 38.
+
+21
+A quick search downstairs proves fruitless so you climb the ladder to the top floor. Here you discover your Gold Brooch - a family heirloom that you stashed here for safekeeping and had all but forgotten about. It is worth 5 Gold Pieces. You peer out of the window to see a canopy of leaves ahead. There appears to be a large area of space towards the eastern edge presumably made by the Beast that attacked your village. Next to the woods are hills leading into a valley where a river runs through. Leaving the mill, do you want to travel north (turn to 29) or northwest (turn to 11)?
+
+22
+Fortunately the cave is abandoned and you settle down for the night. You must eat a meal. The temperature drops and you gather some dry grass to build a small fire by the entrance. You have slept for only a few hours when a terrible roar rends the air. You jump to your feet at once. Thunderous footsteps shake the earth and trees topple down the hill. The Beast is close! Do you want to grab your torch and go out to investigate (turn to 14) or smother the fire and hide in the cave (turn to 2)?
+
+23
+You carry on through the woods without encountering any obstruction. The trees begin to spread further and further apart until you see only grassland ahead and hills to your left. There is a well-used footpath here leading into a field and you follow it. You are relieved to see a town not far away. Suddenly, the sound of snapping branches and rustling leaves makes you turn to see a tree toppling. A huge silhouette rises from the earth itself and you know it is the Beast. A terrible roar rends the air and you flee in panic towards the town before the light of your torch fails. Night has fallen so now is probably not the best time to go looking for help. You decide to rest at an inn until morning. A room costs 2 Gold Pieces and it is another 2 for cooked food. If you take the room only, you can restore 3 points of Stamina and you must eat one of your own provisions. If you pay for food as well, you can restore up to 5 points of Stamina. You enjoy a good night's sleep and get back to the task at hand early the next day. Turn to 9.
+
+24
+Test your Luck. If you are Lucky, turn to 7. If you are Unlucky, you stumble and lose your way in the darkness. Since you don't have a light source, you have no idea that you are in fact going in the wrong direction. As you contemplate where to go, a giant creature bursts forth from the ground, seizing you with a soil-covered limb. There is nothing you can do to stop the Beast from squeezing the life out of you. Your adventure ends here.
+
+25
+Not far away is the Old Mill which you visit now and again. There may be something left inside that could be of use to you. Will you make a search of the place first (turn to 21) or, will you take the road north (turn to 29) or northwest (turn to 11) immediately?
+
+26
+The Knight is dressed in chainmail and wields a broadsword. He fights not for money but to rid the world of such beasts of destruction. The gold will be donated to his temple of worship. These are his attributes:
+
+SKILL   10
+STAMINA   18
+LUCK   8
+
+You tell him where you last encountered the Beast and he tells you to stay put and await the news of his victory. He will not return until the deed is done. For the next paragraph only, you must take control of the Knight's actions. Turn to 20.
+
+27
+There are trees growing here with strangely shaped purple fruits. If you are the Herbalist, you recognise them as highly nutritious if rather bitter-tasting. You collect enough for two meals. If you are the Farmer or Blacksmith, you leave them alone after taking a bite. Turn to the paragraph number you noted earlier.
+
+28
+The Beast seizes you in a vice-like grip and pulls you close to watch you squirm in pain (lose 2 Stamina points). In desperation, you thrust your torch forwards burning its face. The creature roars and throws you aside. A bush breaks your fall but the torch is extinguished. As the Beast clutches its scorched face you make good your escape. Make a note that if the Beast engages in combat later, its Skill and Stamina will be reduced by 1 point. Add 1 Luck point for your minor victory and turn to 7.
+
+29
+The trail disappears into the undergrowth and the trees become more densely packed. You keep to the western edge of the woods where there is more light. The detour provides you with some much needed cover but the going is slower than if you had taken the trail across the moors. The trees begin to thin out by high noon and you rest in a clearing to catch your breath. You must eat two meals. Make a note of the number 32 on your Adventure Sheet and roll one die. If you roll a 1, turn to 36. If you roll a 2 or 3, turn to 5. If you roll a 4 or 5, turn to 27. If you roll a 6, turn to 18.
+
+30
+You continue through the valley for a few more hours without incident. It is getting dark and you light your torch for better visibility. You could soldier on through the evening if you wanted to - the town can't be too much further ahead. Turn to 15. Alternatively, there is a convenient cave at the top of a hill if you want to shelter there for the night. Turn to 22.
+
+31
+You must eat a meal. The temperature drops and you build a fire before settling down for the night. You have slept for only a few hours when a terrible roar rends the air. You jump to your feet at once. Thunderous footsteps shake the earth and trees topple nearby. The Beast is close! Do you want to grab your torch and investigate (turn to 14) or smother the fire and creep away (turn to 24)?
+
+32
+You continue through the woods for a few more hours without incident. It is getting dark and you light your torch for better visibility. You could soldier on through the evening if you wanted to - the town can't be too much further ahead. Turn to 23. Otherwise, you will have to camp in a clearing. Turn to 31.
+
+33
+The Sorceress wears flowing robes of brilliant yellow and crimson. She is well versed in magical arts and tells you that the ravening monster should not pose a problem. These are her attributes:
+
+SKILL   9
+STAMINA   12
+LUCK   10
+
+You tell her where you last encountered the Beast and she tells you to stay put and await the news of her victory. For the next paragraph only, you must take control of the Sorceress' actions. Turn to 20.
+
+34
+Your attempts to rid the Beast have been in vain. Without money, your voice falls on deaf ears. Sullenly, you journey back to your village. But you return only to witness devastation: homes lie in ruins, crops completely destroyed, and many of your people have been killed trying to defend it. Tears well in your eyes and you collapse on to your knees. You have failed them.
+
+35
+At last, your village comes into view and you wave your arms with joy to the people in the distance. Immediately they realise your success and greet you with open arms and a hero's welcome. That night a celebration is held. You tell your tale to the villagers around a campfire and then you are presented with a medal of bravery by the village elders. A plaque is carved in your name to be remembered for scores of years and you are even put into a minstrel's song. But for you, the greatest reward is simply that your dear village and its people are safe once more...and that is all that shall ever matter.
+
+36
+You are surprised by a pair of bandits lurking in the shadows. They come at you together and you must defend yourself with your knife.
+
+BANDIT     SKILL   7     STAMINA   5
+BANDIT     SKILL   6     STAMINA   6
+
+You may Escape after two rounds of combat - turn to the paragraph number you noted earlier. If you manage to kill them both, turn to 19.
+
+37
+Test your Luck. If you are Lucky, turn to 28. If you are Unlucky, turn to 13.
+
+38
+You wait for hours but your aid does not return. You must call for one of the other willing heroes. Go back to 9 and choose someone else.
+
+39
+Thrilled at your success, you journey hastily over the hills until you come into a valley where a river flows. You should be able to reach your destination by following it south. You travel light, pausing only to catch breath. Test your Skill. If you are successful, you spot a concealed trap and skirt around it. Turn to 6. If you are unsuccessful, you fall into a stake-filled pit! The fall is not fatal but you must deduct 3 Stamina points and 1 Skill point for your injuries. Painfully, you climb out tearing strips from your shirt to make bandages. If you are the Herbalist, you collect some curative shrubs in the area, crush them and apply it to your wounds. You may restore the lost Skill point. Turn to 6.
+
+40
+You carry on through the woods without encountering any obstruction. The trees begin to spread further and further apart until you see only grassland ahead and hills to your left. There is a well-used footpath here leading into a field and you follow it. You are relieved to see a town not far away and you enter. Turn to 9.
+

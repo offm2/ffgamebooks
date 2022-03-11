@@ -1,0 +1,1 @@
+JJ,13,9,-1,4,,20,yes,skull,,copper_key,,silver_key,ruby_ring,animal_bone,,,,,HTOB,book,,wooden_stake,medallion,talisman,shovel,shield,diamond_ring,,baby_rattle,candles,bedpan,dagger,crucifix,,crystal_rod,no,yes,XODUS,,TEMUT,SEMUS,yes1,9,7,17,209,

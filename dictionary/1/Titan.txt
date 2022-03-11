@@ -1,0 +1,3 @@
+<h4>Titan</h4>
+<p> Titan is a fictional world where most of the Medieval Fighting Fantasy adventures take place. It is divided into three continents(Allansia, Khul, and the Old World)</p>
+<p> More info from Titan at <a href=http://en.wikipedia.org/wiki/Titan_(world) target=_blank>wikipedia</a> 

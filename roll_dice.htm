@@ -1,0 +1,17 @@
+<head> 
+<title>Dice Roller Javascript</title>
+</head>
+<body><script type="text/javascript">
+function roll()
+{
+var d1=Math.floor(Math.random()*6+1);var d2=Math.floor(Math.random()*6+1);var d3=Math.floor(Math.random()*6+1);
+var p1=document.getElementById('p1');var p2=document.getElementById('p2');
+p1.innerHTML="roll 1 die: "+d1;
+p2.innerHTML="roll 2 dices: "+d2+" + "+d3;
+}
+</script>
+
+<form><input type="button" onclick="javascript:roll();" value="Roll Dice"></form>
+<p id="p1">roll 1 die:</p><p id="p2">roll 2 dices:</p></body>
+<h3 style="color:chocolate;">You can save this page to roll dice offline right click on the page and click Save As..</h3>
+</body>

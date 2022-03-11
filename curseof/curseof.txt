@@ -1,0 +1,13 @@
+item1="skull";weapon=yes1/yes2/no1/no2;
+item2="ring";item3="copper_key";item4="matches";
+item5="silver_key";item6="ruby_ring";item7="animal_bone";
+item8="voodoo_doll";item9="pin";item10="hair_locket";
+item11="snake_talisman";item12="HTOB";item13="book";
+item14="screwdriver";item15="wooden_stake";item16="medallion";
+item17="talisman";item18="shovel";item19="shield";
+item20=diamond_ring;bats=yes;item21=ruby;item22=baby_rattle;
+item23="candles";item24="bedpan";Vashnech=yes;item25="dagger";
+item26="crucifix";pag=160=?;item27="golden_key";tdhead=yes/no;
+sap=yes;item28="crystal_rod";
+word1=XODUS;word2=KALAK;word3=TEMUT;word4=SEMUS
+pag221

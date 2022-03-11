@@ -1,0 +1,926 @@
+Fighting Fantasy amateur adventure
+
+
+Feathers of the
+       Phoenix
+               By
+        Kieran Coghlan
+
+
+
+
+                                     1
+
+                                     Amateur Adventure
+
+
+
+
+          Feathers of the Phoenix
+
+
+Two dice, a pencil and an eraser are all you need to embark on this competition
+adventure, which comes complete with its own elaborate combat system and a score sheet
+to record your progress. It is up to YOU to decide which routes to follow, which dangers
+to risk and which foes to fight.
+
+
+
+
+                                                                                        2
+
+          CONTENTS
+
+
+
+
+INTRODUCTION         4
+
+ADVENTURE SHEET      7
+
+BACKGROUND           8
+
+
+
+
+                          3
+
+                                   INTRODUCTION
+
+You are about to take the lead roll in an adventure that will make you into a living
+legend, renowned and respected throughout the world. Before you take part in this quest,
+you must first determine your own strengths and weaknesses. You use dice to work out
+your initial SKILL, STAMINA, and LUCK scores. On pages 8 is an Adventure Sheet,
+which you may use to record details of your adventure. On it, you will find boxes for
+recording your SKILL, STAMINA and LUCK scores. Write your scores on the
+Adventure Sheet in pencil so you can erase previous scores when you start again. You
+may make photocopies of the sheet for use in future adventures.
+
+
+You use dice to work out your initial scores on an Adventure Sheet, which you may use to
+record details of your adventure. On it, you will find boxes for recording your SKILL,
+STAMINA and LUCK scores. You are advised either to record your scores on the
+Adventure Sheet in pencil or to make photocopies of the sheet for use in future
+adventures. Full details governing rules can be found in any of the Fighting Fantasy
+Gamebooks as well as on the Official website: www.fightingfantasy.com.
+
+
+
+                                 SKILL, STAMINA, LUCK
+
+To determine your Initial SKILL, STAMINA, and LUCK scores:
+
+    SKILL Roll one die. Add 6 to the number and enter this total in the SKILL box
+
+    STAMINA Roll two dice. Add 12 to the number, box on the Adventure Sheet.
+
+    LUCK Roll one die. Add 6 to the number and enter this total in the LUCK box.
+
+
+
+For reasons that will be explained below, all your scores will change constantly during
+the adventure. You must keep an accurate record of these scores, and for this reason, you
+are advised to write small in the boxes or to keep an eraser handy. However, never rub
+out your Initial scores, except on those very rare occasions when the text specifically tells
+you so.
+
+
+Although you may be rewarded additional SKILL, STAMINA and LUCK points, these
+totals may never exceed your initial Scores, except on very rare occasions, when you will
+instructed on a particular page. SKILL reflects your general expertise in fighting and
+combat; the higher the better. STAMINA score reflects your general constitution, your
+overall will to survive, your determination and overall fitness; the higher your STAMINA
+score, the longer you will be able to survive. LUCK score indicates how naturally lucky a
+person you are. Luck ­ and Magic ­ are facts of life in the fantasy world you are about to
+explore.
+
+
+
+
+                                                                                             4
+
+                                               Skill
+Your SKILL score will not change much during the course of your adventure.
+Occasionally a paragraph may give you instructions to increase or decrease your SKILL
+score, but it may not exceed its Initial value unless you are specifically instructed to the
+contrary.
+At various times during your adventure, you will be told to Test your Skill. The procedure
+for this is the same as that for Testing your Luck: roll two dice. If the number rolled is
+less than or equal to your current SKILL score, you have succeeded in your test and the
+result will go in your favour. If the number rolled is higher than your current SKILL
+score, you have failed the test and will have to suffer the consequences. However, unlike
+Testing your Luck, do not subtract 1 point from your SKILL each time you Test your
+Skill. Your SKILL score can never exceed its initial value unless specifically instructed
+on a page. Drinking the Potion of SKILL (see later) will restore your SKILL to its initial
+level at any time; except when engaged in a battle.
+
+
+
+                                                  Luck
+Additions to your LUCK score may be awarded in the adventure when you have been
+particularly lucky or created your own luck by some other action. Details are given,
+where appropriate, in the paragraphs of the book. Remember that, as with SKILL and
+STAMINA, your LUCK score may never exceed its initial value unless specifically
+instructed on a page. Drinking the Potion of Fortune (see later) will restore your LUCK to
+its initial level at any time, and increase your initial LUCK by 1 point.
+
+
+                                          Provisions
+Everyone knows that food is vital as a form of sustenance. The text shall instruct you to
+eat a meal at certain times in your adventure. This means you'll have to erase one meal
+automatically without gaining STAMINA! Venturing into any adventure may prove
+arduous indeed; therefore you need food just to keep your strength up. This then leads to
+a second possibility: if you have no provisions and the text tells you to eat a meal, you
+must reduce your STAMINA by 3 points! Any other time you eat a meal, you may
+restore 4 lost STAMINA points, except during combat or when performing any other
+similar action.
+
+
+                               EQUIPMENT AND POTIONS
+You will start your adventure with a bare minimum of equipment, but you may find or
+buy other items during your travels. You have a backpack to hold your Provisions and
+any other items you may come across.
+In addition, you may take one bottle of a magical potion, which will aid you on your
+mission. You may choose to take a bottle of any of the following:
+
+
+A Potion of SKILL restores SKILL points
+A Potion of Strength restores STAMINA points
+A Potion of Fortune restores LUCK points and adds 1 to initial LUCK
+
+
+These potions may be taken at any time during your adventure (except when engaged in a
+battle). Taking a measure of potion will restore SKILL, STAMINA or LUCK scores to
+
+
+
+
+                                                                                             5
+
+their initial level (and the Potion of Fortune will add 1 point to your initial LUCK score
+before LUCK is restored). Each bottle of potion contains enough for one measure; i.e. the
+characteristic may be restored once during an adventure. Make a note on your Adventure
+Sheet when you have used up your potion.
+
+
+                                        SECRET REFS
+
+
+
+When attempting this adventure you must remember that this book is devious beyond
+belief! If ever you come to a point in the adventure that seems impossible to past beyond,
+you may require a Secret Ref to help you. Secret Refs are paragraph numbers that can
+only be reached if you have acquired special knowledge of their existence, but how do
+you go about finding that knowledge? Play the book and look for it!
+
+
+                                       HINTS ON PLAY
+
+This adventure is dangerous. You might well fail on your first attempt. Make notes and
+draw a map as you explore - this map will prove invaluable when making further forays
+in this adventure, and it will enable you to progress more rapidly to unexplored sections.
+Remember: when you are travelling through any environment, it is a good idea to make a
+note of where such encounters lie in the adventure ahead, including useful objects and
+information to aid you on your dangerous quest.
+
+
+Be wary about testing your Luck, unless a paragraph instructs you to do this! When it
+comes to fights, you should Test your Luck only to keep yourself alive if an opponent's
+blow would otherwise kill you. However, be warned! If you decide to use Luck in this
+way, be certain your adversary is worth it- Luck points are precious!
+
+
+You start this mission with very few possessions, but will be given opportunities to
+collect food, weapons, and items. However, choose your equipment carefully - although
+many are precious or magical, others are red herrings and of no real value at all.
+
+
+You will soon realise that paragraphs make no sense if read in numerical order. It is
+essential that you read only the paragraphs you are instructed to go to. Reading other
+sections lessens the excitement and surprise during play. The only true way to success in
+this adventure involves minimal risk; even if your character scores are low, you should be
+able to find magical artefacts and weapons that may increase your chances of victory in
+battle.
+
+
+
+
+                                                                                            6
+
+7
+
+                                       BACKGROUND
+
+You press Vincenzo against the wall and punch him across the face again. He gives a
+short cry of pain and falls to the floor, his mouth drooling blood. You hear Vortigen
+snickering behind you and you smile as you give Vincenzo a hearty kick in the ribs.
+"If you've come to kill me, then finish the job!", he gasps. You give him a cold stare and
+smile at him.
+"If Branno wanted you dead, you would be", you gloat, "but as it happens he doesn't want
+to lose such a valuable friend as you just yet. Consider this your warning", you finish
+with another hearty kick in the ribs. Vortigen continues to guffaw at Vincenzo's plight.
+Branno, one of Port Blacksand's most powerful and feared crime lords, had asked the two
+of you to teach Vincenzo a lesson after Branno discovered he had been embezzling some
+of the money made from burglaries. It strikes you as odd that Branno did not simply wish
+him dead, he is not known for his mercy and you and Vortigen have killed for him many
+times before. Perhaps he simply did not want to lose such a competent bookkeeper.
+Regardless, the job is done now and Vortigen is eagerly going through Vincenzo's
+drawers in the hope of finding, what he calls his "Hard Work Bonus". Sadly, there only
+seems to be a few trinkets of little value, hardly the biggest haul you've ever had.
+Disappointedly Vortigen continues his rummage...and finds something. From the very
+back of a small cupboard he pulls out a red feather, glowing faintly in the dim light. On
+seeing what Vortigen has uncovered Vincenzo awakens out of his dazed stupor and gives
+a start.
+"Leave that alone!" he cries.
+"Why? What is it?" demands Vortigen. Vincenzo refuses to answer and gives you a
+defiant look. However, the fat bookkeeper has been trying your patience too long and you
+give him a few good kicks to get him talking.
+"You can't kill me!" he cries as your kicks break his ribs, "You said so yourself. I'll not
+talk. You can only hurt me so much without killing me."
+"You'd be surprised what you can live through", you reply curtly, drawing your knife and
+glancing at his ear menacingly. This is more than the cowardly bookkeeper can bear. He
+reveals that the feather Vortigen is holding is that of a Phoenix, a legendary bird with
+supposed powers of rebirth. Apparently if four such feathers are collected, it will reveal
+the location of the phoenix egg, a treasure much more valuable than any gold, as anyone
+with a phoenix as their pet will gain eternal life.
+"I know that one such feather is possessed by the merchant Sylees in Blacksand itself",
+Vincewnzo continues. "I had hoped to acquire all four and get my hands on that Phoenix
+Egg, but you have put paid to my aspirations." The bookkeeper hangs his head dejectedly
+and you guess that this is all he knows. With a nod and a cruel smile, you and Vortigen
+leave his house to the murky Blacksand street outside.
+"It appears that we are about to embark on quite a quest", says Vortigen with a devilish
+glint in his eye. You agree that you should both try to track down the remaining feathers,
+but one of you should report to Branno first to tell him that Vincenzo has been taken care
+of for it would not be wise to have an angry Branno on their tails during this enterprise.
+Vortigen agrees and says he will take the feather and discover the whereabouts of this
+Sylees, while you report to Branno. You can then meet at the Red Lantern Tavern on
+
+
+
+
+                                                                                            8
+
+Gallows Street at eleven o' clock to discuss your next actions. You concur, and set off
+towards Branno's headquarters, eager to begin your hunt for the feathers of the phoenix.
+
+
+Turn to 1
+
+NOW TURN OVER
+
+
+
+
+                                                                                        9
+
+                                                 1
+You stride confidently through the narrow, dark streets of the Noose, an area so vile and
+dangerous as to make the rest of Port Blacksand look like the paragon of hospitability.
+Branno's headquarters is situated in the western part of the Noose looking merely like a
+ramshackle warehouse on the outside, but on the inside it is elaborately decorated with
+sumptuous silks. The usual group of ne'er-do-wells stand cloistered outside the entrance,
+but you also notice a rather scruffy looking old man sitting on the street outside. He gives
+you a grin as you look at him, revealing a sparkling gold tooth. He is Old Jod, one of the
+best spies and informants in the city port. There is little going on that he doesn't know
+about. You realize that any information may be useful on your quest so you ask Jod, if he
+knows of any events going on that you may be interested in. He gives you a short,
+calculating look and then smiles in a most grotesque manner.
+"Two Gold Pieces and I can give you some very valuable information", he wheezes.
+If you wish to pay for Jod's information, turn to 22. If you would rather carry on into the
+building to see Branno, turn to 42.
+
+
+
+                                                     2
+The man smiles and introduces himself as Renghis, a monk from Khul. He points to the
+coloured stones and says that he has been trying to figure out a puzzle, set to him by a
+friend, but he is unable to solve it. If you are willing he says he will bet up to five gold
+pieces that you will be unable to solve it. If you do not wish to bet then you say goodbye
+to the monk and take a seat by the window (turn to 44). If you are willing to play decide
+how much you wish to stake and read on.
+Renghis tells you the stones are all Red, Yellow, Green or Blue. His friend wishes him to
+work out a sequence of four of the stones where all of the following criteria are true:
+1.The first colour is not red or green.
+2.One colour is used twice, but the two stones of this colour are not next to each other in
+the sequence, nor is that colour blue or red.
+3.Blue is definitely used, but is not the last colour in the sequence.
+4. The last colour is not green.
+5.The third colour is yellow.
+Once you think you know the sequence allocate each colour in the sequence points. Red
+is worth one point, yellow two points, blue three and green four. Then multiply these
+points by the position they come in the sequence. So if green was the second colour in the
+sequence you would multiply four points by two to get a result of eight points. Finally
+add all the points together, multiply the total by two and turn to the paragraph with the
+number of that result. If the paragraph, you turn to makes no sense or you cannot solve
+the puzzle, then you must hand over your stake to the monk, take your leave and sit down
+somewhere else. Turn to 44.
+
+
+
+
+                                                  3
+You rush out into the cold night air. It has begun to rain quite heavily, but you care little.
+Vengeance is all that occupies your mind right now. You race along the streets of the
+cityport, their cobbled surfaces slick from the rain. Eventually you reach the Noose and
+
+
+
+
+                                                                                              10
+
+are almost at your destination. Do you have a golden amulet? If you do, turn to 31. If you
+do not, turn to 12.
+
+
+                                                 4
+You haven't progressed far down the dark street before you see three lowlifes beating a
+richly adorned man with cudgels. The man has been forced on to the damp ground and is
+holding out his hand and imploring you for help. The three muggers stop what they are
+doing to see what you are going to do. Normally you would just ignore a scene like this,
+but perhaps the man will reward you for saving him. On the other hand perhaps you can
+join the muggers and they may give you a share of the man's belongings. If you wish to
+attack the muggers therefore saving the man, turn to 48. If you would rather help the
+muggers, turn to 17. If you do not wish to involve yourself in the situation, you may walk
+on (turn to 43)
+
+
+
+                                                5
+You have climbed halfway along the rope when you see a beaming face peering over the
+prow of the ship directly at you. Without a word he cuts the rope and you plummet into
+the water below. Lose one Luck point for this less than graceful demonstration of your
+subterfuge. It is far too dangerous to make an attempt on Abdul's life now so you must
+swim back to the dock and take your leave of this place. Turn to 18.
+
+
+
+                                                  6
+With a smile of satisfaction you take all of the money robbed from the victim. Add 20
+Gold Pieces to your Adventure sheet. Pocketing the money you set off for the tavern and
+reach it without any further hassle. Turn to 11.
+
+
+
+(PART 2 by David Holt)
+                                                 7
+Deduct the amount you wagered from your adventure sheet. To the cheers of the crowd,
+the two fighters attack each other with renewed fury.
+MAN-ORC Skill: 8 Stamina: 8
+STREET THUG Skill: 7 Stamina: 14.
+Conduct the fight between the two yourself. If the combatant you bet on wins then collect
+twice your stake from the dwarf. If not you will have to leave without your stake. Either
+way you must continue on to keep your appointment. Turn to 32.
+
+
+                                                  8
+When you refuse her offer Jakina countenance undergoes a remarkable change. She is no
+longer smiling amicably, but is giving you venomous look of undiluted hatred. She draws
+her sword and commands you to do the same. However this might not be the best course
+of action. If Jakina is trying to kill you she must have been hired by someone and will
+therefore probably be quite happy to reveal her employer and leave you alone for a
+suitable bribe. You reckon you would need at least fifteen gold pieces to convince her
+
+
+
+
+                                                                                          11
+
+though. If you wish to try bribing her with fifteen gold pieces, turn to 46. If you would
+rather fight her, or you do not have fifteen gold pieces, then read on.
+Drawing your sword you prepare for battle. The barmaid shrieks and runs into a
+backroom, the bald man merely watches you with a bemused look on his face.
+JAKINA Skill: 10 Stamina: 11
+If you reduce her stamina to 3 points or less, turn to 47.
+
+
+                                                9
+A quick search of your would-be assassin's body reveals nothing of interest. Knowing
+that time is precious you waste no more time here and hurry on. Turn to 31.
+
+
+                                               10
+The harbour is quite quiet at this time of night, most of the sailors have retired to the
+nearby Blue Lobster Tavern, and perhaps the roughest place in the whole city port.
+Creeping behind some barrels you spy your quarry: The Halvedar nestled next to The Fat
+Crab, the ship of Captain Ahab, the famous leviathan Hunter. You are about to make your
+move towards the ship when you hear the unmistakeable sound of approaching footsteps.
+You turn your head to see three city guards, their distinctive demonic helmets glistening
+in the moonlight, heading your way. You unfortunately have a bounty on your head and
+the usually negligent guards may make an exception in your case for the reward. They
+have not seen you yet so you may try sneaking off to a better hiding place (turn to 45) or
+you may stay where you are in the hope that you may be able to bribe them to leave you
+alone for the night (turn to 13).
+
+
+
+                                                 11
+You arrive at The Red Lantern somewhat earlier than the appointed time and Vortigen
+has not arrived yet. The Red Lantern, while not as rough as some of the other dives in
+Port Blacksand, is not the safest place to relax in. That said it seems fairly quiet now, the
+only customer, being a robed man with a shaven head studying some coloured stones, his
+face the very definition of contemplation. Behind the bar a pretty serving wench is
+cleaning the pumps. Will you sit with the robed man (turn to 2), approach the bar and
+chat with the serving wench (turn to 14) or will you just take a seat and wait for Vortigen
+(turn to 26)?
+
+
+
+
+                                             12
+As you are racing along, a man in dark robes slides out of a nearby alleyway and draws a
+cruel looking curved sword.
+
+
+
+                                                                                            12
+
+"Branno does not have time for those who disobey his orders", he snickers and then in
+one fluid motion he brings his sword to bear on you. You must fight this assassin.
+ASSASSIN Skill: 11 Stamina: 9
+If you win, turn to 9.
+
+
+
+                                              13
+The guards spot you and give a low snicker. They stride confidently towards you, their
+demonic helmets especially frightening at nighttime. They raise their spears and you are
+uncertain whether they mean to attack or not. The captain talks:
+"Well, look who we have here. Do you know you've got quite a heavy bounty on your
+head after you robbed that emissary come to see Lord Azzur? However, the lads and I are
+in no hurry to fight one such as yourself. Give us three gold pieces each and we'll forget
+we saw you." If you are willing to give the contemptible guards nine gold pieces, turn to
+39. If you do not have that much gold or you will not part with it, you must refuse. Turn
+to 19.
+
+
+
+                                              14
+When you are up close to the barmaid you realize with horror who she is. It is Gwynn,
+whom your brother left at the altar two years ago to join up with Captain Bloodaxe's
+pirate crew (a course of action that came to a sticky end for your brother). She has
+obviously recognized you and from the rather angry glare she gives you she has not
+forgiven your family for her disgrace.
+"I was hoping I wouldn't see any you ever again", she snarls, " but obviously them red-
+garbed southerners that were asking where you was didn't manage to kill you."
+She refuses to serve you and will not tell you anything more of these southerners, so you
+take a seat feeling her malevolent glare on you the whole time. You sure hope Vortigen
+gets here fast! Turn to 44.
+
+
+
+                                             15
+You run as fat as you can to the Red Lantern hoping that Vortigen is still waiting for you.
+You are almost there when you hear a soft sound coming from one of the upper floor
+windows of the tavern. A crossbow bolt flies into your chest and buries itself deeply in
+you heart. You give one shallow gasp and then fall to your knees never to know who
+killed you or why.
+
+
+
+                                              16
+You believe you are just about to get clear of their sights when you stumble on a loose
+cobblestone. The guards look up and, seeing you trying to escape their attentions, reach
+for their crossbows. You try to dive into the safety of the sea, but the guards are good
+shots and soon three crossbow bolts have lodged themselves in your body (lose 1 Skill
+point and 6 Stamina points). Pretending the wounds were fatal you let yourself fall into
+sea and then hurriedly swim away while the guards investigate whether you really are
+dead. Eventually you reach a part of the harbour far enough away from the guards and
+pull yourself out. It would be far too dangerous to attempt an assassination of Abdul the
+
+
+
+
+                                                                                           13
+
+Butcher now so you make your way to Gallows Street with all haste eager to keep your
+appointment with Vortigen. Turn to 11.
+
+
+                                               17
+With your assistance the man is soon beaten into a bloody mess, his once sumptuous
+robes now drenched in crimson fluid. The muggers waste no time in looting the body and
+share out his gold. The leader hands you two gold pieces muttering his appreciation.
+However, you can see that he and his cronies are getting a much bigger share of the
+profits. Guessing what you are thinking the leader snarls angrily:
+"Your help while appreciated was uncalled for and unneeded. You do not deserve any
+more than these two gold pieces and be thankful we are allowing you them." If you wish
+to attack the muggers in order to get all the gold, turn to 41. If you would rather take the
+two gold pieces and bid the muggers farewell, you soon reach Gallows Street and the Red
+Lantern Tavern. Turn to 11.
+
+
+
+                                             18
+You pull yourself on to the wharf to find two red-garbed warriors standing over you.
+Judging by their dark appearance and their scimitars, a weapon unusual for Western
+Allansia, you surmise that they are from Southern Allansia, though what they would be
+doing in the City of Thieves is anybody's guess. One of them nods at the other and they
+draw their scimitars. Whatever their purpose for being here your death seems to be a part
+of it. You must fight them both at once.
+FIRST RED GARBED SOUTHERNER Skill :8 Stamina: 7
+SECOND RED GARBED SOUTHERNER Skill:9 Stamina: 6
+If you slay this odd pair, turn to 25.
+
+
+
+                                              19
+Annoyed at your refusal to comply, the guards ready their spears and advance at you.
+You must fight all three of them together.
+FIRST GUARD Skill: 7 Stamina: 6
+SECOND GUARD Skill: 6 Stamina: 8
+THIRD GUARD Skill: 6 Stamina: 7
+If you defeat the three guards, turn to 29.
+
+
+                                              20
+You land successfully on the deck and although there is a lookout on the far side of the
+ship, he does not hear you. Stealthily you creep down the nearby stairs to the cabins. You
+ignore the worn doors below decks which doubtless contain naught but drunken pirates
+and concentrate on a gilded door in the starboard side of the ship. Opening it softly you
+see your quarry. Abdul the butcher lies sleeping softly. You draw your knife and quickly
+slit his throat from ear to ear; he never even has the chance to scream. Snatching his
+golden amulet as proof of the deed you quietly return to the deck and leap into the water
+and swim for the dockside. Turn to 18.
+
+
+                                              21
+Branno is overjoyed to see you return with the Golden amulet and embraces you warmly.
+
+
+
+
+                                                                                            14
+
+"You have restored honour to my family and shall be rewarded richly", he says,
+presenting you with fifty gold pieces. You take the money and thank Branno, but explain
+to him that you must be going. He quite understands and does not tarry you a moment
+longer. You set off to the Red Lantern, pleased to have the money, but with the
+knowledge that you will probably be late for your meeting. Turn to 15.
+
+
+                                                 22
+He snatches the two gold pieces, bites them to ascertain that they are genuine, and with a
+smile of satisfaction, imparts his information:
+"Captain Ahab, the leviathan hunter, and all his crew have been taken prisoner by Lord
+Azzur's guards. It seems Ahab made a rather ribald joke about his lordship's mother in
+front of someone he shouldn't have been in front of, y'know what I mean?" You nod
+understandingly. The amount of spies Lord Azzur employs is phenomenal; perhaps Old
+Jod himself has worked for his lordship in the past.
+"Anyway", continues Jod, "this means his ship, the Fat Crab has been abandoned,
+meaning anyone can get inside to get at the captain's riches." With this, Jod gives a wink
+and waddles down the street, no doubt to spend his money at the nearest public house.
+You are somewhat disappointed in this information, you doubt it will be much use to you
+right now, but information is still valuable in a place like Port Blacksand where there are
+many lowlifes trying to make a quick gold piece out of another's misfortune. However,
+now is not the time to dwell on such things. You must report the outcome of your mission
+to Branno, before he gets impatient. Turn to 42.
+
+
+
+                                                23
+The ship appears to be completely deserted; perhaps Ahab and his crew have had a run-in
+with the city guards? You care little though as it suits your purposes just fine. You should
+be able to jump onto the Halvedar's deck without too much trouble. You take a run-up
+and prepare to leap. Test your Luck. If you are Lucky, turn to 20. If you are Unlucky, turn
+to 40.
+
+
+                                              24
+It is no good. Your mule just cannot keep up with Vortigen's superior mount and you
+watch glumly as Vortigen rides off into the countryside, taking all your hopes of finding
+the phoenix and immortality with him.
+
+
+                                                 25
+A quick rummage through the Southerners' belongings yields only a sling and three
+bullets which you may take if you wish and a severed human finger which you throw
+away in disgust. More interesting however, is the symbol each man has tattooed on his
+left shoulder: a drawing of a phoenix feather! Perhaps these men are also interested in
+finding the phoenix and were trying to kill you in order to get their hands on the feather.
+However, there is little time for contemplation now. If you were successful in killing
+Abdul you may go report to Branno. He said that this was unnecessary and in doing so
+you might miss your appointment, but you are likely to be richly rewarded for your
+accomplishment tonight. If you wish to see Branno, go to 21, if you would rather make
+straight for the Red Lantern, turn to 11. If you have not killed Abdul, then you would be
+
+
+
+
+                                                                                           15
+
+wise to steer clear of Branno and you should make your way to the Red Lantern post
+haste, turn to 11.
+
+
+                                              26
+You can hear a large amount of commotion coming from up the street; unusual for this
+time of night when respectable people are in their beds and unrespectable people are
+trying their best to keep quiet. Gazing up the street you see why. A large crowd is
+forming around two combatants, a Man Orc and a large street thug, who are doing their
+best to kick seven bells out of each other. A dwarf, small even by his race's diminutive
+standards, is asking for people to place bets. You go up to him and inquire about the
+details.
+"Quite simple my friend. Bet up to five gold pieces. Your boy wins, you double your
+stake, if not I keep your money." Sounds simple enough. If you wish to bet, decide how
+much money you wish to wager and whether you want to back the Man Orc or the street
+thug and then turn to 7. If you would rather not waste time here you may continue on to
+the tavern, turn to 32.
+
+
+
+                                             27
+The bullet smashes into the side of Vortigen's head and sends him flying off his horse.
+Riding up to your sprawled adversary you draw your sword aiming to kill the man you
+thought was your friend and cohort. Disembarking from your mount you give Vortigen
+an evil smile as you prepare to deal the deathblow. His face the very image of fear
+Vortigen thinks of his one chance he has of getting out of this alive. He throws his belt
+pouch at your face and using this distraction runs off into the urban maze of Port
+Blacksand. You are not over disappointed though as you have a feeling that you know
+what is inside the belt pouch. Turn to 50.
+
+
+
+
+                                             28
+You know you have only one chance to hit him with your sling, after that he will be too
+far out of range. Letting go of your mules stirrups you place a bullet in the sling and
+swing it round your head letting go of the sling strap at what you hope is the precise
+moment. Test your Skill. If you succeed, turn to 27. If you fail your bullet misses, turn to
+24.
+
+
+                                              29
+A rather hasty rummage through the guards' pockets reveals four gold pieces. Pocketing
+this meagre treasure, you leave the corpses before anyone sees you. Turn to 49.
+
+
+                                               30
+You drink the ale and it tastes good, very good. Jakina starts conversing with you about
+her latest exploits, but you just cannot pay attention to what she's saying. In fact your
+whole mind feels clouded. You lie back in the seat and look around, but all the shapes
+seem indistinct. In fact you feel like you can barely turn your head anymore. Your eyelids
+become droopy and you come to the slow realization that you have been poisoned, but at
+least you will die incredibly comfortably.
+
+
+
+
+                                                                                            16
+
+                                                 31
+You reach the home of Vortigen's brother Dolgern and with an angry kick you break his
+door down, both your sword and your knife drawn. Dolgern was obviously sitting in his
+armchair having a quiet drink when you entered, as he seems to have spilt the contents of
+his mug all over himself at your rather undignified entrance. Seeing that you mean
+business he grabs a nearby wooden stool and prepares top defend himself with it.
+DOLGERN Skill: 8 Stamina: 8
+After two attack rounds the stools breaks under the force of your strokes and Dolgern
+collapses into a gibbering wreck.
+"Its no good. I won't talk", he bleats,"Vortigen will kill me if I talk."
+"I'll do a lot worse", you sneer and with that you grab his nose and with one clean swipe
+of your knife you cut off its tip.
+"Now unless you want anything else cut off you'd best start talking", you shout.
+Whimpering more than ever now Dolgern reveals that Vortigen has arranged to meet
+Sylees at the city gates under the pretext of buying the feather from him. He plans to kill
+him and take the feather. You need to hear no more. You run outside, grab Dolgern's
+mule which he has tethered by the side of his small home and set off at full gallop for the
+city gates. Turn to 34.
+
+
+
+
+(PART 2 by David Holt)
+                                             32
+Leaving the noisy crowd behind you turn east into Gallows Street and eventually come to
+the Red Lantern Tavern. Turn to 11.
+
+
+                                               33
+Zalgros beckons you along, and you cannot help but notice that he is shaking slightly.
+Whether this is due to excitement, agitation or plain nerves from his ordeal is unclear, but
+you decide to keep an eye on him in case he does anything unpredictable. His house is
+not far from when you saved him and by the time you approach the front door his shaking
+has increased tenfold. He hurriedly unlocks the door and beckons you to enter. You put
+your foot in the doorway...and suddenly cannot move it! In fact your whole body seems
+to be frozen. With a demented grin on his face Zalgros rubs his long hands together in
+glee.
+"Now you shall receive your gift." he chuckles," You shall live as part of the greatest
+invention ever: a golem of unequalled power. Your brain is perfect to complete my
+golem."
+He pulls forth a long knife and begins to sever into your head. There is nothing you can
+do to stop the demented scientist from extracting your brain for his sick experiments.
+Your adventure ends here.
+
+
+
+                                             34
+You round the corner to see Vortigen stabbing a man, who you assume is Sylees through
+the chest. Grabbing something from the dead man's body, Vortigen mounts his black
+
+
+
+
+                                                                                           17
+
+stallion and heads towards the gates. You know you must catch him now if you hope to
+lay your hands on the feathers. Urging your mule into a gallop you give chase, but it is
+clear that you stand little chance of catching him. Do you have a sling? If so, turn to 28, if
+not, turn to 24.
+
+
+                                             35
+You manage to creep to the back of the warehouse and give a sigh of relief as the guards
+walk past your hiding-place. Once you can no longer hear their footsteps you head back
+towards the ships to complete your task. Turn to 49.
+
+
+                                             36
+"Amazing!" says the monk. "As your reward you may have either money equalling that
+of your stake or," he adds with a dramatic flourish of his robes that reveals a previously
+hidden felt box with sequined question marks in it, "whatever is in this box." if you wish
+to take the box, add however many gold pieces you staked to your amount of treasure,
+and take your leave of the monk (turn to 44). If however, you are unable to resist the
+temptation of the mystery box, turn to 38.
+
+
+
+
+                                               37
+You offer the man your hand and help him to his feet. After dusting off his clothes he
+gives you a smile and thanks you profusely.
+"I thought that was the end of me there, a real shame it would be for me to die now when
+I'm so close to a breakthrough. But I am being impolite. My name is Zalgros and I am a
+researcher...of sorts. If you would like to accompany back to my home I can reward you
+with a great gift for saving my life."
+There is a somewhat odd glint in his eye as he says this. If you wish to go with him to his
+house, turn to 33. If you would rather decline, Zalgros does not insist and you make your
+way to the Red Lantern. Turn to 11.
+
+
+
+
+                                               38
+You open the box hurriedly, clumsy from anticipation. What could be inside? A magic
+ring? An enchanted talisman? Perhaps, dare you hope, one of the Phoenix feathers?
+When you finally open it up you peer in eagerly to see...nothing? Thinking that the item
+inside must be invisible you reach in, but there is indeed nothing inside whatsoever! Lose
+1 Luck Point. You glare angrily at the monk, but he merely smiles disarmingly at you.
+
+
+
+
+                                                                                            18
+
+"Do not be disappointed friend, for you have received the best gift of all. In receiving
+nothing, you will cherish what you do have so much more."
+Somehow you fail to see it his way and throwing the box away in disgust you move to
+another table, vowing never to gamble with a monk ever again. Turn to 44.
+
+
+                                             39
+Pocketing you money, the guards lower their spears and head off to complete their
+rounds. "Behave now", laughs the captain as he and his unscrupulous companions
+disappear from sight. Relieved to be rid of the bothersome guards you head towards the
+ships and your quarry. Turn to 49.
+
+
+                                            40
+Unfortunately, you slip on a wet patch on the deck just as you are about to make your
+bold leap. You fall head over heels and fall into the water with an almighty splash.
+Knowing that this will reveal your presence to all aboard the ship you swim quickly to
+the dockside knowing that Branno will not be pleased with this failure. Turn to 18.
+
+
+
+                                           41
+The thieves quickly rip out their cudgels again. They will not give up their newly
+acquired wealth without a fight.
+FIRST MUGGER Skill: 7 Stamina: 7
+SECOND MUGGER Skill: 5 Stamina: 4
+THIRD MUGGER Skill: 8 Stamina: 6
+If you win, turn to 6.
+
+
+                                              42
+
+You stride into Branno's richly decorated audience chamber. You allow yourself a grin as
+you notice no-one has informed Branno that "less is more" (understandably given his
+volcanic temper) as the room is so filled with luxurious curtains, chairs and tapestries that
+the overall effect is rather tasteless. Branno sits upon his (rather tacky) gold throne and
+smiles as he sees you enter. He is a tall man with a receding hairline and a pencil-thin
+moustache. Despite being quite old, he has lost none of the fire he had from the days
+when he was a simple mugger.
+"So you have returned then", he says in his whispery voice, "Vincenzo will think twice
+before trying to steal from me again. Now I have another task for you." You protest that
+you have important plans of your own, but he waves away your arguments with an angry
+gesture of his hands.
+"I care nothing of your plans. You are my tool and I will use you when I want. I wish you
+to go to the harbour. There is a ship from Tak there: The Halvedar, captained by one
+Abdul the Butcher, apparently quite infamous in Khul, but that matters not. I want him
+dead. He dared to make insulting gestures to my daughter." You shudder at this. You
+know how over-protective Branno is of his only daughter. Branno continues:
+"Kill him and get his golden amulet as proof of the deed. But I am not without a heart. Do
+this task for me and you can carry out your business without reporting to me first.
+
+
+
+
+                                                                                           19
+
+However, do not expect a reward unless you come to me. Now this audience is at an
+end." You bow to the crime-lord and leave the hideout. Still considering your options you
+leave The Noose and cross over the bridge to the north side of town. Now you must make
+your decision. It is only 10 o' clock. So you may have time to carry out Branno's mission
+and still keep your appointment. If you wish to do this then head west down Harbour
+Street (turn to 10). If you would rather not risk missing your appointment with Vortigen
+you may head directly for the Red Lantern Tavern (although this will likely incur
+Branno's wrath). There are two ways to get there. You may head north up Garden Street
+(turn to 26) or east through Candle Street (turn to 4).
+
+
+                                              43
+You ignore the man's cries for help and the muggers, intent on finishing him off, allow
+you to pass. The man's death screams bother you little as living in Port Blacksand
+desensitises you to such acts of violence. Eventually you reach Gallows Street and the
+Red Lantern Tavern. Turn to 11.
+
+
+                                               44
+Eventually the door opens, but it is not Vortigen who enters, but a woman with long
+blonde hair dressed in leather armour and carrying a heavy crossbow on her back. You
+recognize he as Jakina, a bounty hunter who Branno occasionally employs, but you've
+never particularly liked her. On seeing you she seems somewhat alarmed, but then gives a
+glimmering smile and offers to buy you a drink. If you accept her hospitality, turn to 30.
+If you refuse, turn to 8.
+
+
+                                              45
+You crouch low and tiptoe quietly towards some nearby warehouse which would offer
+good cover. Test your Luck. If you are lucky, turn to 35. If you are unlucky, turn to 16.
+
+
+                                                 46
+Jakina accepts the bribe and pockets the money, sheathing her sword afterwards.
+"I was sent by Vortigen to kill you", she says. You start at this: Vortigen has betrayed
+you!
+"Where is he now?" you demand.
+"I know not," she replies, "but if anyone knows it will be his fool of a brother. You know
+as well as I do that Vortigen does little without first informing him."
+You know this is good counsel and without a second glance at Jakina, who is busy
+picking at her nails with a dagger, you stride out of The Red Lantern to head for the
+Noose and the home of Vortigen's slow-witted sibling. Turn to 3.
+
+
+
+
+                                               47
+With your last blow you sent Jakina's sword from her hands and bring the point of your
+own sword to her throat, bringing a thin trickle of blood from it as you do so. Jakina gets
+on her knees and begs you to show mercy.
+"I was sent by Vortigen to kill you", she whines. You start at this: Vortigen has betrayed
+you!
+
+
+
+
+                                                                                           20
+
+"Where is he now?" you demand.
+"I know not," she replies, "but if anyone knows it will be his fool of a brother. You know
+as well as I do that Vortigen does little without first informing him."
+You know this is good counsel and without a second glance at Jakina, who is busy
+getting a drink from the bar to steady her understandably shaken nerves, you stride out of
+The Red Lantern to head for the Noose and the home of Vortigen's slow-witted sibling.
+Turn to 3.
+
+
+
+                                                 48
+The muggers, outraged at your interference, lift their cudgels and try to batter you into
+subjugation. Fight all three of them together.
+FIRST MUGGER Skill: 7 Stamina: 7
+SECOND MUGGER Skill: 5 Stamina: 4
+THIRD MUGGER Skill: 8 Stamina: 6.
+If you win, turn to 37.
+
+
+                                                 49
+With the inconvenience of the guards dealt with, you return your attention to the docks.
+The obvious route on to the Halvedar is to climb up the rope mooring it to the dock. A
+possible alternative is to go onto the possibly less well guarded Fat Crab and leap from
+there on to the deck of the Halvedar. Both routes come with their risks and you must
+choose carefully. if you wish to go straight to the Halvedar, turn to 5, if you would rather
+gain entrance via the fat Crab, turn to 23.
+
+
+                                                50
+You pull back the drawstrings of the pouch and are pleased to see two shining feathers,
+lying inside, their fiery brilliance seemingly intensified now that the two of them are
+together. Where the other two feathers are you do not know, but you are another step
+closer to finding the phoenix and the immortality that comes with it.
+
+
+
+
+                                                                                            21
+
